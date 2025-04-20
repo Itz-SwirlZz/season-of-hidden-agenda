@@ -10,7 +10,7 @@ Choose a section from the sidebar or index below.
 ## 📁 Main Categories
 
 - [Members](Members.md)
-- [Member Bios](Member%20Bios.md)
+- [Member Bios](Member%20Bios.html)
 - [Member Lore Entries](Member%20Lore%20Entries.md)
 - [Member Exotics](Member%20Exotics.md)
 
