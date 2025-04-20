@@ -1,7 +1,6 @@
 ---
 ---
 
-[← Return to Home](obsidian://open?vault=Season%20Of%20Hidden%20Agenda%20Codex&file=Season%20Of%20Hidden%20Agenda%20Codex%2FHome)
 # Yerk Vega
 
 ***Lore Entry***: “Loaded Dice”
@@ -335,3 +334,5 @@ If Bravo-7 needs her, just drop a breadcrumb trail in the flame sector. She’ll
 *—H. Treyson*,
 Personal Manager of D. Garcia
 (Until burnout or retirement. Whichever wins.)
+---
+[← Return to Home](./index.md)

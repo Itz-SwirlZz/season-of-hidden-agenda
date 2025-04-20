@@ -1,7 +1,6 @@
 ---
 ---
 
-[← Return to Home](obsidian://open?vault=Season%20Of%20Hidden%20Agenda%20Codex&file=Season%20Of%20Hidden%20Agenda%20Codex%2FHome)
 [Open World Exotic Armor](Open%20World%20Exotic%20Armor.html)
 ## M.A.U.L.E.R.
 *Exotic Rocket Launcher*
@@ -92,3 +91,6 @@ During Rinse state, weapon auto-fires from reserves while ADS is held.
 The weapon isn't broken. It's recursive.
 It doesn't skip steps.
 It lives them again. And again. And again...
+
+---
+[← Return to Home](./index.md)

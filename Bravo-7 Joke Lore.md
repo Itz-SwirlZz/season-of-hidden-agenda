@@ -1,7 +1,6 @@
 ---
 ---
 
-[← Return to Home](obsidian://open?vault=Season%20Of%20Hidden%20Agenda%20Codex&file=Season%20Of%20Hidden%20Agenda%20Codex%2FHome)
 
 - [Member Lore Entries](Member%20Lore%20Entries.html)
 - [Ghost Lore Entries](Ghost%20Lore%20Entries.html)
@@ -203,3 +202,6 @@ Zakk still drinks from it daily.
 ---
 
 
+
+---
+[← Return to Home](./index.md)

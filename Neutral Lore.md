@@ -1,7 +1,6 @@
 ---
 ---
 
-[← Return to Home](obsidian://open?vault=Season%20Of%20Hidden%20Agenda%20Codex&file=Season%20Of%20Hidden%20Agenda%20Codex%2FHome)
 # Neutral Character Lore
 
 ---
@@ -29,3 +28,6 @@ Nötivart is a void-wielding entity of such enigmatic origin that even the most 
 To those like Zakk Romletté, Nötivart is more than myth—he is a source of insight, power, and transformation. His teachings emphasize the sculpting of the void not merely as a weapon but as a reflection of internal entropy. Though no Guardian claims to have met him, those who walk his path speak of dreams shaped by black suns and stars that whisper their names. Whether man, god, or ghost, Nötivart’s legacy endures in shadows.
 
 
+
+---
+[← Return to Home](./index.md)

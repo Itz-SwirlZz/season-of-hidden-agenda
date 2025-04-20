@@ -1,7 +1,6 @@
 ---
 ---
 
-[← Return to Home](obsidian://open?vault=Season%20Of%20Hidden%20Agenda%20Codex&file=Season%20Of%20Hidden%20Agenda%20Codex%2FHome)
 ## Neutral Members
 
 
@@ -245,3 +244,6 @@ When surrounded by three or more enemies, sword charge decays slower, and all he
 —Guardian and Ghost
 
 ---
+
+---
+[← Return to Home](./index.md)

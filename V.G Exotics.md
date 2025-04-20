@@ -1,7 +1,6 @@
 ---
 ---
 
-[← Return to Home](obsidian://open?vault=Season%20Of%20Hidden%20Agenda%20Codex&file=Season%20Of%20Hidden%20Agenda%20Codex%2FHome)
 Dungeon Exotics – Verdant Grave
 
 Each weapon grown from the Flower Fields carries more than petals—it carries intent. Every pull of the trigger says something about who you are, and Pistillum made sure the garden will remember it.
@@ -169,3 +168,5 @@ if they live long enough to find the next page.
 - **Drones** now grant a partial reload to weapon and allies near it every 8 seconds.  
 
 ---
+---
+[← Return to Home](./index.md)

@@ -3,7 +3,6 @@
 
 (Personal > Bravo-7 involved)
 
-[← Return to Home](obsidian://open?vault=Season%20Of%20Hidden%20Agenda%20Codex&file=Season%20Of%20Hidden%20Agenda%20Codex%2FHome)
 - [H.I.L.T Lore Entries](H.I.L.T%20Lore%20Entries.html)
 - [H.I.L.T Members](H.I.L.T%20Members.html)
 - [C.o.T Raid](C.o.T%20Raid.html)
@@ -306,3 +305,6 @@ Everyone groans in sync.
 ---
 *This sitcom style extends at [H.I.L.T x Bravo-7 Sitcom](H.I.L.T%20x%20Bravo-7%20Sitcom.html)*.
 
+
+---
+[← Return to Home](./index.md)

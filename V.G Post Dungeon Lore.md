@@ -1,7 +1,6 @@
 ---
 ---
 
-[← Return to Home](obsidian://open?vault=Season%20Of%20Hidden%20Agenda%20Codex&file=Season%20Of%20Hidden%20Agenda%20Codex%2FHome)
 
 ---
 
@@ -120,3 +119,6 @@ And from soil, something else will rise.”
 ---
 
 
+
+---
+[← Return to Home](./index.md)

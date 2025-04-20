@@ -1,7 +1,6 @@
 ---
 ---
 
-[← Return to Home](obsidian://open?vault=Season%20Of%20Hidden%20Agenda%20Codex&file=Season%20Of%20Hidden%20Agenda%20Codex%2FHome)
 
 
 
@@ -124,3 +123,5 @@ And I would follow her through any explosion. Even the ones she didn’t mean to
 
 ---
 [← Return to Home](obsidian://open?vault=Season_of_Hidden_Agenda_Vault&file=Home)
+---
+[← Return to Home](./index.md)
