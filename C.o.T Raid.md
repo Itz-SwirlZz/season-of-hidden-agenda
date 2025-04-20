@@ -2,7 +2,6 @@
 ---
 
 
-[← Return to Home](obsidian://open?vault=Season%20Of%20Hidden%20Agenda%20Codex&file=Season%20Of%20Hidden%20Agenda%20Codex%2FHome)
 - [H.I.L.T Lore Entries](H.I.L.T%20Lore%20Entries.html)
 - [H.I.L.T Joke Lore](H.I.L.T%20Joke%20Lore.html)
 - [H.I.L.T Members](H.I.L.T%20Members.html)
@@ -832,6 +831,8 @@ For once, he chooses silence.
 Not because he is broken—because he remembers.
 
 > [END – GHOST COMMENT LOGGED: “Some things don’t need words.”]
+---
+[← Return to Home](./index.md)
 
 
 
