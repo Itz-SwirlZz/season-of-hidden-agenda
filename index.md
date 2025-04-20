@@ -39,3 +39,4 @@ Choose a section from the sidebar or index below.
 
 - [Open World Exotic Weapons](Open%20World%20Exotic%20Weapons.md)
 - [Open World Exotic Armor](Open%20World%20Exotic%20Armor.md)
+<!-- Trigger rebuild -->
