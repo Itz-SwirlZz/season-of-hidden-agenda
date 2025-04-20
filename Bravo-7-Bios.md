@@ -124,6 +124,10 @@ Her eyes don’t always change instantly—some shifts take time, others burst l
 ![Kaniss.png](/assets/Kaniss.png)
 **Species**: Human | **Eyes**: Deep Blue
 **Origin**: French
+
+**Region**: Glenndale
+“Most don’t even know she sleeps in the Signal Tower. It’s better that way.”
+
 **Class**: Warlock (Arc – Custom Subclass: Webweaver)
 **Role**: Control & Crowd Entrapment
 **Ghost**: Zinnatrix “Zin” – The Silk Circuit
@@ -165,6 +169,10 @@ With long, wavy blonde hair and a scar from an Arc misfire trailing down her rig
 ![Zakk.png](/assets/Zakk.png)
 **Species**: Human | **Eyes**: Deep Blue
 **Origin**: French
+
+**Region**: Both
+“The only person banned from both Devrim’s tower and the Glennstone rail loop.”
+
 **Class**: Warlock (Void – Custom Subclass: Void Sculptor)
 **Role**: Flank Master & Field Manipulation
 **Ghost**: Vriss – The Void Echo
@@ -205,7 +213,10 @@ With a blond curly undercut and sharp eyes always scanning for angles, Zakk’s 
 # **“Daring” Dannie Garcia – The Rare Daredevil**
 ![Dannie.png](/assets/Dannie.png)
 **Species**: Human | **Eyes**: Light Brown
-**Origin**: Earth (Glennstone)
+
+**Origin**: Earth (Glennstone
+“When she left, she took her ramp blueprints with her. The kids remade them. Bigger.”
+
 **Class**: Hunter (Solar – Blade Barrage)
 **Role**: Instinctual Vanguard & Symbol of Courage
 **Ghost**: Quasie – The Wild Static
