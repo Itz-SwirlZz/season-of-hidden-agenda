@@ -2,9 +2,7 @@
 layout: default
 title: Home
 ---
-# Welcome to the Codex
 
-Choose a section from the sidebar or index below.
 # Welcome to the Codex
 
 Choose a section from the index below.
@@ -43,4 +41,3 @@ Choose a section from the index below.
 
 - [Open World Exotic Weapons](Open-World-Exotic-Weapons)
 - [Open World Exotic Armor](Open-World-Exotic-Armor)
-
