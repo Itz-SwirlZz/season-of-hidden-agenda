@@ -1,8 +1,9 @@
 ---
-
----
 ---
 
+ HEAD
+ bb4f1b9 (Replaced broken Obsidian footer links with working GitHub links)
+ restore-index
 - [H.I.L.T Lore Entries](H.I.L.T%20Lore%20Entries.html)
 - [H.I.L.T Joke Lore](H.I.L.T%20Joke%20Lore.html)
 - [C.o.T Raid](C.o.T%20Raid.html)
@@ -242,9 +243,12 @@ Dome can be destroyed via glowing sphere on top
 Bonus:
 
 Fires a slow wind-up poison dart with high impact and AoE linger effect
+---
+[← Return to Home](./index.md)
 
 
 
 
 ---
 [← Return to Home](./index.md)
+

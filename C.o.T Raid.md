@@ -831,6 +831,8 @@ For once, he chooses silence.
 Not because he is broken—because he remembers.
 
 > [END – GHOST COMMENT LOGGED: “Some things don’t need words.”]
+---
+[← Return to Home](./index.md)
 
 
 
