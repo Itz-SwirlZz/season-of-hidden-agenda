@@ -302,3 +302,6 @@ Final title: *The Mourner*. His pain is not just fuel. It’s memory.
 ---
 
 
+
+---
+[← Return to Home](./index.md)

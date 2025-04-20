@@ -2,7 +2,6 @@
 ---
 
 
-[← Return to Home](obsidian://open?vault=Season%20Of%20Hidden%20Agenda%20Codex&file=Season%20Of%20Hidden%20Agenda%20Codex%2FHome)
 
 ---
 
@@ -63,3 +62,6 @@
 
 
 ---
+
+---
+[← Return to Home](./index.md)

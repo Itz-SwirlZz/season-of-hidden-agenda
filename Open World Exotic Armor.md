@@ -1,7 +1,6 @@
 ---
 ---
 
-[← Return to Home](obsidian://open?vault=Season%20Of%20Hidden%20Agenda%20Codex&file=Season%20Of%20Hidden%20Agenda%20Codex%2FHome)
 [Open World Exotic Weapons](Open%20World%20Exotic%20Weapons.html)
 # Exotic Armor Codex
 
@@ -160,3 +159,6 @@ Until the heavies ran dry and they ran to him.
 - **Solar:** Super use causes massive AoE ignition  
 - **Arc:** Chains Arc Web and refunds grenade energy  
 - **Void:** Causes Ward of Dawn to violently explode upon collapse
+
+---
+[← Return to Home](./index.md)

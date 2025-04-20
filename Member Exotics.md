@@ -2,7 +2,6 @@
 ---
 
 
-- [← Return to Home](obsidian://open?vault=Season%20Of%20Hidden%20Agenda%20Codex&file=Season%20Of%20Hidden%20Agenda%20Codex%2FHome)
 - [Member Bios](Member%20Bios.html)
 - [Member Lore Entries](Member%20Lore%20Entries.html)
 - [Ghost Bios](Ghost%20Bios.html)
@@ -287,3 +286,6 @@ Lore Tab – "Punch Life in the Face":
 
 
 
+
+---
+[← Return to Home](./index.md)

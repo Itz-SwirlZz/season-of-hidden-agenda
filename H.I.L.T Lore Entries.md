@@ -1,7 +1,6 @@
 ---
 ---
 
-[← Return to Home](obsidian://open?vault=Season%20Of%20Hidden%20Agenda%20Codex&file=Season%20Of%20Hidden%20Agenda%20Codex%2FHome)
 - [H.I.L.T Members](H.I.L.T%20Members.html)
 - [H.I.L.T Joke Lore](H.I.L.T%20Joke%20Lore.html)
 - [C.o.T Raid](C.o.T%20Raid.html)
@@ -128,3 +127,6 @@ Not for the Hive.
 
 
 ---
+
+---
+[← Return to Home](./index.md)

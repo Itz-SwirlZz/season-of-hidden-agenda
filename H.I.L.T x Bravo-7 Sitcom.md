@@ -1,7 +1,6 @@
 ---
 ---
 
-[← Return to Home](obsidian://open?vault=Season%20Of%20Hidden%20Agenda%20Codex&file=Season%20Of%20Hidden%20Agenda%20Codex%2FHome)
 *(Catch up with the whole H.I.L.T sitcom joke lore plot at the bottom of [H.I.L.T Joke Lore](H.I.L.T%20Joke%20Lore.html)*
 
 *Since you all love torturing the producers with a fundraiser and a petition no one notified us about, here it is
@@ -565,3 +564,6 @@ Silence.
 
 **Caption:** *“Kapaar was never officially invited. He just *is.*”*
 
+
+---
+[← Return to Home](./index.md)
