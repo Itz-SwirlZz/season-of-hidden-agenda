@@ -44,8 +44,8 @@ Choose a section from the index below.
 
 ---
 
-## **OPEN WORLD EXOTICS**
-
+## **OPEN WORLD**
+- [📍 Glenndale & Glennstone – EDZ Village Entry](Glenndale_and_Glennstone_EDZ_Codex.md)
 - [Open World Exotic Weapons](Open-World-Exotic-Weapons)
 - [Open World Exotic Armor](Open-World-Exotic-Armor)
 
