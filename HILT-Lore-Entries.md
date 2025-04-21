@@ -98,6 +98,41 @@ No sound. No growl. Just a soft thrum when I walked away.
  I lied.
 
 
+---
+
+## Ghar’kaan – TACTICAL ENTRY: “He Let Me”
+
+Recovered from a fractured soulstone shard. Entry partially restored from psychic imprint.
+
+We were regrouping after the failed push at Spiral Point. Harth’noak hadn’t moved from the ridge since the call to fall back. Just stood there, humming with quiet grief, staring into the fog like it had wronged him personally.
+
+Kapaar didn’t approach. Even he knows when noise is a mistake.
+
+I climbed instead—slow, deliberate. No weapons drawn. No Light flared. Just me, boots crunching soil beneath me.
+
+He didn’t turn. Didn’t growl.
+
+When I reached him, he stood still—runes dimmed, eyes cast low.
+
+So I did it.
+
+I placed my hand on his side, over the fracture lines of his ribs where the glow runs deepest.
+
+He didn’t shudder. Didn’t tighten. No flare of soulfire.
+
+He just… let me.
+
+I don’t know what he felt. Maybe nothing. Maybe too much.
+
+But for one moment, the storm inside him dulled. And the one in me did too.
+
+I didn’t speak. Neither did he.
+
+But I stayed until the wind shifted and the others called. And as I turned to go, his thrum pulsed once—low, like thunder in a heart.
+
+A reminder.
+
+He let me.
 
 
 ---
