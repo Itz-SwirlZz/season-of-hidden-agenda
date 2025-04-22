@@ -71,35 +71,6 @@ He says I’ll blow myself up one day.
 
 ---
 
-## Ghar’kaan – TACTICAL ENTRY: “Reminder”
-
-[Recovered from a scorched corner of her field log, ink preserved through soulfire imprint.]
-
-Kapaar is persistent.
-
-I’ve been repairing the scope for two hours and he’s still circling like I owe him a flame snack or a hug.
-
-“You should pet him,” he says. “Harth likes you.”
-
-He says it like Harth is a domesticated beast instead of a grief-wrapped warhead.
-
-The truth?
-
-Harth does remember me. The way his glow flickered when I approached. The way he didn’t brace or flinch.
-
-That silence? It wasn’t fear. It was knowing.
-
-Still… I left a ration cube near his den this morning.
-
-No sound. No growl. Just a soft thrum when I walked away.
-
-> Kapaar asked if he purred.
- I told him no.
- I lied.
-
-
----
-
 ## Ghar’kaan – TACTICAL ENTRY: “He Let Me”
 
 Recovered from a fractured soulstone shard. Entry partially restored from psychic imprint.
@@ -136,6 +107,37 @@ He let me.
 
 
 ---
+
+## Ghar’kaan – TACTICAL ENTRY: “Reminder”
+
+[Recovered from a scorched corner of her field log, ink preserved through soulfire imprint.]
+
+Kapaar is persistent.
+
+I’ve been repairing the scope for two hours and he’s still circling like I owe him a flame snack or a hug.
+
+“You should pet him,” he says. “Harth likes you.”
+
+He says it like Harth is a domesticated beast instead of a grief-wrapped warhead.
+
+The truth?
+
+Harth does remember me. The way his glow flickered when I approached. The way he didn’t brace or flinch.
+
+That silence? It wasn’t fear. It was knowing.
+
+Still… I left a ration cube near his den this morning.
+
+No sound. No growl. Just a soft thrum when I walked away.
+
+> Kapaar asked if he purred.
+ I told him no.
+ I lied.
+
+
+---
+
+
 
 ## Harth’noak – Internal Echo
 
