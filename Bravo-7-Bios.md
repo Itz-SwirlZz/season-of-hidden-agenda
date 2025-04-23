@@ -253,5 +253,6 @@ When she does arrive, she burns bright. Fast. Unshakable. You never have to ask 
 • Quasie once rode a lightning bolt across the Divalian Mist just because.
 • Garcia’s stunt record—“5 flips, 2 sparrow slingshots, 1 mid-air Blade Barrage finish”—is still unbeaten.
 • She’s rumored to have turned down multiple Vanguard promotions.
+
 ---
 [← Return to Home](./index.md)
