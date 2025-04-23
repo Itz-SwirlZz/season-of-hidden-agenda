@@ -1,12 +1,10 @@
 ---
 ---
 
+**Bravo-7 Navigation:**  
+[📖 Bios](Bravo-7-Bios) | [📝 Lore](Member-Lore-Entries) | [🤣 Joke Lore](Bravo-7-Joke-Lore) | [💥 Exotics](Member-Exotics) | **👻 Ghost Bios** | [🔮 Ghost Lore](Ghost-Lore-Entries)
 
-[Bravo-7 Members](obsidian://open?vault=Season_of_Hidden_Agenda_Vault&file=Bravo-7%2FMember%20Bios)
-
-
-[Ghost Lore](obsidian://open?vault=Season_of_Hidden_Agenda_Vault&file=Bravo-7%2FGhost%20Lore%20Entries)
-
+---
 
 **Companions of Bravo-7**
 
@@ -81,4 +79,8 @@ Quasie once launched herself at a Hive Knight mid-battle because she thought he 
 ---
 
 [← Return to Home](./index.md)
+
+**Bravo-7 Navigation:**  
+[📖 Bios](Bravo-7-Bios) | [📝 Lore](Member-Lore-Entries) | [🤣 Joke Lore](Bravo-7-Joke-Lore) | [💥 Exotics](Member-Exotics) | **👻 Ghost Bios** | [🔮 Ghost Lore](Ghost-Lore-Entries)
+
 
