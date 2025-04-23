@@ -256,3 +256,10 @@ When she does arrive, she burns bright. Fast. Unshakable. You never have to ask 
 
 ---
 [← Return to Home](./index.md)
+
+- [Bravo-7 Lore Entries](Member-Lore-Entries)
+- [Bravo-7 Joke Lore](Bravo-7-Joke-Lore)
+- [Bravo-7 Exotics](Member-Exotics)
+- [Ghost Bios](Ghost-Bios)
+- [Ghost Lore Entries](Ghost-Lore-Entries)
+
