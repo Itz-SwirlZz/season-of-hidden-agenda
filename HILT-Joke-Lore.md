@@ -3,10 +3,8 @@
 
 (Personal > Bravo-7 involved)
 
-- [H.I.L.T Lore Entries](H.I.L.T%20Lore%20Entries.html)
-- [H.I.L.T Members](H.I.L.T%20Members.html)
-- [C.o.T Raid](C.o.T%20Raid.html)
-- [C.o.T Raid Exotics](C.o.T%20Raid%20Exotics.html)
+**H.I.L.T. Navigation:**  
+[🛡 Members](HILT-Members) | [📜 Lore](HILT-Lore-Entries) | **🎭 Joke Lore** | [📺 Sitcom Crossover](HILT-x-Bravo-7-Sitcom)
 
 ---
 
@@ -308,3 +306,6 @@ Everyone groans in sync.
 
 ---
 [← Return to Home](./index.md)
+
+**H.I.L.T. Navigation:**  
+[🛡 Members](HILT-Members) | [📜 Lore](HILT-Lore-Entries) | **🎭 Joke Lore** | [📺 Sitcom Crossover](HILT-x-Bravo-7-Sitcom)
