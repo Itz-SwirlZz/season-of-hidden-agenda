@@ -77,6 +77,7 @@ No one knows how she keeps up with Garcia, but she does—and *loves* every seco
 
 
 Quasie once launched herself at a Hive Knight mid-battle because she thought he “looked like he needed a podcast.” She has a catchphrase: *“Dare to glitch.”* And somehow… it fits.
+
 ---
 
 [← Return to Home](./index.md)
