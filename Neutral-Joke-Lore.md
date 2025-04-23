@@ -1,9 +1,11 @@
 ---
 ---
 
-
+**Neutral Character Navigation:**  
+[🧍 Members + Gear](Members) | [📖 Lore](Neutral-Lore) | **😂 Joke Lore**
 
 ---
+
 
 ## Pistillum – “The Real Reason She Left the Garden”
 
@@ -65,3 +67,6 @@
 
 ---
 [← Return to Home](./index.md)
+
+**Neutral Character Navigation:**  
+[🧍 Members + Gear](Members) | [📖 Lore](Neutral-Lore) | **😂 Joke Lore**
