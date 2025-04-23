@@ -1,6 +1,10 @@
 ---
 ---
 
+**Bravo-7 Navigation:**  
+[📖 Bios](Bravo-7-Bios) | [📝 Lore](Member-Lore-Entries) | [🤣 Joke Lore](Bravo-7-Joke-Lore) | [💥 Exotics](Member-Exotics) | [👻 Ghost Bios](Ghost-Bios) | **🔮 Ghost Lore**
+
+---
 
 
 
@@ -124,3 +128,8 @@ And I would follow her through any explosion. Even the ones she didn’t mean to
 ---
 
 [← Return to Home](./index.md)
+
+**Bravo-7 Navigation:**  
+[📖 Bios](Bravo-7-Bios) | [📝 Lore](Member-Lore-Entries) | [🤣 Joke Lore](Bravo-7-Joke-Lore) | [💥 Exotics](Member-Exotics) | [👻 Ghost Bios](Ghost-Bios) | **🔮 Ghost Lore**
+
+
