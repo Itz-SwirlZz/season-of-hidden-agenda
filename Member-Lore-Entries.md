@@ -1,6 +1,11 @@
 ---
 ---
 
+**Bravo-7 Navigation:**  
+[📖 Bios](Bravo-7-Bios) | **📝 Lore** | [🤣 Joke Lore](Bravo-7-Joke-Lore) | [💥 Exotics](Member-Exotics) | [👻 Ghost Bios](Ghost-Bios) | [🔮 Ghost Lore](Ghost-Lore-Entries)
+
+---
+
 # Yerk Vega
 
 ***Lore Entry***: “Loaded Dice”
@@ -337,3 +342,6 @@ Personal Manager of D. Garcia
 ---
 
 [← Return to Home](./index.md)
+
+**Bravo-7 Navigation:**  
+[📖 Bios](Bravo-7-Bios) | **📝 Lore** | [🤣 Joke Lore](Bravo-7-Joke-Lore) | [💥 Exotics](Member-Exotics) | [👻 Ghost Bios](Ghost-Bios) | [🔮 Ghost Lore](Ghost-Lore-Entries)
