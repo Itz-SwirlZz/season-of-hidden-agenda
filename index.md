@@ -52,4 +52,7 @@ Choose a section from the index below.
 - [Open World Exotic Weapons](Open-World-Exotic-Weapons)
 - [Open World Exotic Armor](Open-World-Exotic-Armor)
 
+---
 
+[README](README.md)
+[LICENSE](LICENSE.md)
