@@ -8,7 +8,6 @@
 - [Ghost Lore Entries](Ghost%20Lore%20Entries.html)
 - [Bravo-7 Joke Lore](Bravo-7%20Joke%20Lore.html)
 
-![Bravo group.png](/assets/Bravo group.png)
 
 # **Yerk “Talladega” Vega – The Dice Roller**
 ![Yerk.png](/assets/Yerk.png)
