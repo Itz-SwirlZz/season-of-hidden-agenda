@@ -3,6 +3,7 @@
 *Codex Entry: “Balance is not a place. It’s the distance between extremes.”*
 
 ---
+![GlieseReal.jpg](/assets/GlieseReal.jpg)
 
 ## Classification  
 - **Type:** Rocky Super-Earth  
@@ -27,6 +28,7 @@ The center of operations and the only known area where both flora and Light-base
 ### **3. Umbral Deep (Night Side)**  
 An irradiated void-scape with cracked ice plains and buried Hive altars. Thought to be Nötivart’s final battleground.
 
+![GlieseMap.png](/assets/GlieseMap.png)
 ---
 
 ## Scientific Notes  
