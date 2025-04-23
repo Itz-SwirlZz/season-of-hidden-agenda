@@ -335,4 +335,5 @@ If Bravo-7 needs her, just drop a breadcrumb trail in the flame sector. She’ll
 Personal Manager of D. Garcia
 (Until burnout or retirement. Whichever wins.)
 ---
+
 [← Return to Home](./index.md)
