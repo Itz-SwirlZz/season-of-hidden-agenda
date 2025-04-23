@@ -1,12 +1,10 @@
 ---
+**Bravo-7 Navigation:**  
+**📖 Bios** | [📝 Lore](Member-Lore-Entries) | [🤣 Joke Lore](Bravo-7-Joke-Lore) | [💥 Exotics](Member-Exotics) | [👻 Ghost Bios](Ghost-Bios) | [🔮 Ghost Lore](Ghost-Lore-Entries)
+
 ---
 
 
-- [Bravo-7 Lore Entries](Member-Lore-Entries)
-- [Bravo-7 Joke Lore](Bravo-7-Joke-Lore)
-- [Bravo-7 Exotics](Member-Exotics)
-- [Ghost Bios](Ghost-Bios)
-- [Ghost Lore Entries](Ghost-Lore-Entries)
 
 
 # **Yerk “Talladega” Vega – The Dice Roller**
@@ -257,9 +255,6 @@ When she does arrive, she burns bright. Fast. Unshakable. You never have to ask 
 ---
 [← Return to Home](./index.md)
 
-- [Bravo-7 Lore Entries](Member-Lore-Entries)
-- [Bravo-7 Joke Lore](Bravo-7-Joke-Lore)
-- [Bravo-7 Exotics](Member-Exotics)
-- [Ghost Bios](Ghost-Bios)
-- [Ghost Lore Entries](Ghost-Lore-Entries)
+**Bravo-7 Navigation:**  
+**📖 Bios** | [📝 Lore](Member-Lore-Entries) | [🤣 Joke Lore](Bravo-7-Joke-Lore) | [💥 Exotics](Member-Exotics) | [👻 Ghost Bios](Ghost-Bios) | [🔮 Ghost Lore](Ghost-Lore-Entries)
 
