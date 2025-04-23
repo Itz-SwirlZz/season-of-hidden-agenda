@@ -1,4 +1,5 @@
 ---
+---
 **Bravo-7 Navigation:**  
 **📖 Bios** | [📝 Lore](Member-Lore-Entries) | [🤣 Joke Lore](Bravo-7-Joke-Lore) | [💥 Exotics](Member-Exotics) | [👻 Ghost Bios](Ghost-Bios) | [🔮 Ghost Lore](Ghost-Lore-Entries)
 
