@@ -46,3 +46,5 @@ All Guardian operations require environmental seals, alternating light calibrati
 *“We didn’t land on stable ground. We landed between opposites — and we’re the only thing keeping them from collapsing in on each other.”*  
 — Unknown Warlock, post-Twilight Mantle breach
 
+---
+[← Return to Home](./index.md)
