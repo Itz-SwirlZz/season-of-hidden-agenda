@@ -36,7 +36,7 @@
 
 ## 🗺️ Map Reference
 
-![Glenndale Map](Glenndale_Final_Marked.png)
+![Glenndale_Final_Marked.png](/assets/Glenndale_Final_Marked.png)
 
 ---
 [← Return to Home](index.md)
