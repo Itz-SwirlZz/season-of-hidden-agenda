@@ -1,11 +1,11 @@
 ---
 ---
 
+**SOHA Navigation:**  
+[🎮 New Gamemodes](SOHA-Season-Activities.md) | [🌿 Verdant Grave](Verdant-Grave-Dungeon) | [📓 Post-Dungeon Lore](VG-Post-Dungeon-Lore) | [💎 VG Exotics](VG-Exotics) | [🏰 C.O.T. Raid](COT-Raid) | [🧬 Raid Exotics](COT-Raid-Exotics)
 
-- [H.I.L.T Lore Entries](H.I.L.T%20Lore%20Entries.html)
-- [H.I.L.T Joke Lore](H.I.L.T%20Joke%20Lore.html)
-- [H.I.L.T Members](H.I.L.T%20Members.html)
-- [C.o.T Raid Exotics](C.o.T%20Raid%20Exotics.html)
+---
+
 
 ## Chamber of Trails – Brief Encounter Overview
 
