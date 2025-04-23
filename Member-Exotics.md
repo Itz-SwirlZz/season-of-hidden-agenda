@@ -5,8 +5,6 @@
 
 ---
 
-Bravo-7 Exotic Gear Codex (Full Details)
-
 # 1. Yerk Vega – Thrill Seeker (Exotic Kinetic Pulse Rifle)
 
 **Exotic Trait** – Seeker Mode:
