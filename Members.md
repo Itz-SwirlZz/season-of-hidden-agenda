@@ -1,8 +1,8 @@
 ---
 ---
 
-## Neutral Members
-
+**Neutral Character Navigation:**  
+**🧍 Members + Gear** | [📖 Lore](Neutral-Lore) | [😂 Joke Lore](Neutral-Joke-Lore)
 
 ---
 
@@ -247,3 +247,6 @@ When surrounded by three or more enemies, sword charge decays slower, and all he
 
 ---
 [← Return to Home](./index.md)
+
+**Neutral Character Navigation:**  
+**🧍 Members + Gear** | [📖 Lore](Neutral-Lore) | [😂 Joke Lore](Neutral-Joke-Lore)
