@@ -246,9 +246,3 @@ Fires a slow wind-up poison dart with high impact and AoE linger effect
 ---
 [← Return to Home](./index.md)
 
-
-
-
----
-[← Return to Home](./index.md)
-
