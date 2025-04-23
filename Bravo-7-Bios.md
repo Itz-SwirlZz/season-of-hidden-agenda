@@ -2,11 +2,11 @@
 ---
 
 
-- [Member Lore Entries](Member%20Lore%20Entries.html)
-- [Member Exotics](Member%20Exotics.html)
-- [Ghost Bios](Ghost%20Bios.html)
-- [Ghost Lore Entries](Ghost%20Lore%20Entries.html)
-- [Bravo-7 Joke Lore](Bravo-7%20Joke%20Lore.html)
+- [Bravo-7 Lore Entries](Member-Lore-Entries)
+- [Bravo-7 Joke Lore](Bravo-7-Joke-Lore)
+- [Bravo-7 Exotics](Member-Exotics)
+- [Ghost Bios](Ghost-Bios)
+- [Ghost Lore Entries](Ghost-Lore-Entries)
 
 
 # **Yerk “Talladega” Vega – The Dice Roller**
