@@ -1,3 +1,12 @@
+---
+---
+
+**Open World Navigation:**  
+[📍 Glenndale & Glennstone](Glenndale-and-Glennstone-EDZ-Codex.html) | [🌌 Gliese 581c](Gliese-581c-Dossier.html) | [🛠 Exotic Weapons](Open-World-Exotic-Weapons) | [🧥 Exotic Armor](Open-World-Exotic-Armor)
+
+---
+
+
 # Glenndale and Glennstone – EDZ Codex Entry
 
 ## 🔹 Glenndale – Survivor's Rest *(Main Village)*
