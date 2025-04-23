@@ -1,6 +1,12 @@
 ---
 ---
 
+**SOHA Navigation:**  
+**🎮 New Gamemodes** | [🌿 Verdant Grave](Verdant-Grave-Dungeon) | [📓 Post-Dungeon Lore](VG-Post-Dungeon-Lore) | [💎 VG Exotics](VG-Exotics) | [🏰 C.O.T. Raid](COT-Raid) | [🧬 Raid Exotics](COT-Raid-Exotics)
+
+---
+
+
 # Seasonal Activities Overview  
 **Section:** Hidden Agenda > Core Activities  
 
@@ -242,4 +248,7 @@ At instability levels above 66%, fireteams begin to hear **glitched Hive prayers
 
 ---
 [← Return to Home](./index.md)
+
+**SOHA Navigation:**  
+**🎮 New Gamemodes** | [🌿 Verdant Grave](Verdant-Grave-Dungeon) | [📓 Post-Dungeon Lore](VG-Post-Dungeon-Lore) | [💎 VG Exotics](VG-Exotics) | [🏰 C.O.T. Raid](COT-Raid) | [🧬 Raid Exotics](COT-Raid-Exotics)
 
