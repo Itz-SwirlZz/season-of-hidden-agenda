@@ -1,7 +1,11 @@
 ---
 ---
 
-[Open World Exotic Weapons](Open%20World%20Exotic%20Weapons.html)
+**Open World Navigation:**  
+[📍 Glenndale & Glennstone](Glenndale-and-Glennstone-EDZ-Codex.html) | [🌌 Gliese 581c](Gliese-581c-Dossier.html) | [🛠 Exotic Weapons](Open-World-Exotic-Weapons) | [🧥 Exotic Armor](Open-World-Exotic-Armor)
+
+---
+
 # Exotic Armor Codex
 
 ---
