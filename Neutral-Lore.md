@@ -1,7 +1,8 @@
 ---
 ---
 
-# Neutral Character Lore
+**Neutral Character Navigation:**  
+[🧍 Members + Gear](Members) | **📖 Lore** | [😂 Joke Lore](Neutral-Joke-Lore)
 
 ---
 
@@ -31,3 +32,6 @@ To those like Zakk Romletté, Nötivart is more than myth—he is a source of in
 
 ---
 [← Return to Home](./index.md)
+
+**Neutral Character Navigation:**  
+[🧍 Members + Gear](Members) | **📖 Lore** | [😂 Joke Lore](Neutral-Joke-Lore)
