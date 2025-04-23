@@ -122,6 +122,5 @@ She’s a streak of wildfire and half-sent apologies.
 And I would follow her through any explosion. Even the ones she didn’t mean to cause.”
 
 ---
-[← Return to Home](obsidian://open?vault=Season_of_Hidden_Agenda_Vault&file=Home)
----
+
 [← Return to Home](./index.md)
