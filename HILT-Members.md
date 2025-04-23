@@ -14,9 +14,13 @@
 # Kezen – The Necromancer of Regret
 ![Kezen.png](/assets/Kezen.png)
 **Species**: Hive Wizard (descended from Nokris)
+
 **Role**: Founder of H.I.L.T., Necromancer
+
 **Visual Style**: Ritual patchwork robes with Hive stitching and etched bone charms
+
 **Weapon / Ability Style**: Necromantic rites, soulfire puppetry
+
 
 **Quote**:
 
@@ -69,10 +73,15 @@ Those who joined her didn’t kneel. They stood. Together, they became H.I.L.T.�
 
 # Kiln Auga’thuun – The Fortress Blade
 ![Kiln.png](/assets/Kiln.png)
+
 **Species**: Hive Knight
+
 **Role**: Heavy Support, Tactical Interceptor
+
 **Visual Style**: Pale blue heavy armor with glowing green veins; full white helm
+
 **Weapon / Ability Style**: Smart-Cleavers forged in sorrow, can combine into one axe and uses solar effects based on emotion & intent.
+
 
 **Quote**:
 
@@ -127,10 +136,15 @@ Signature Traits / Battle Notes
 
 # Kapaar – The Augured Flame
 ![KAPAAR.png](/assets/KAPAAR.png)
+
 **Species**: Hive
+
 **Role**: Pyroshock Disruptor, Flamefield Control
+
 **Visual Style**: Faded gray armor, red/green glow accents, soulfire tank on back
+
 **Weapon / Ability Style**: “Gospel” – soulfire-modified flamethrower of his own invention
+
 
 **Quote**:
 
@@ -187,10 +201,15 @@ He and Kiln fought more with words than weapons—but stood together every battl
 
 # Ghar’kaan – The Soulstone Mindbreaker
 ![Ghar'kaan.png](/assets/Ghar'kaan.png)
+
 **Species**: Hive, genetically stunted Acolyte 
+
 **Role**: Battlefield Manipulator, Psychic Disruptor
+
 **Visual Style**: above average size acolyte,  Jagged armor in pale orange. steel accents with glowing purple soulstone in center of helmet
+
 **Weapon / Ability Style**: Mind control, swift mobility, limited but calculated weapon use
+
 
 > “I don’t need to be louder—I just need to be the last thing you remember.”
 
@@ -244,10 +263,15 @@ Signature Traits / Battle Notes
 
 # Harth’noak – The Grief Engine
 ![Harth.png](/assets/Harth.png)
+
 **Species**: Cursed Hive Thrall (Ogre-like mutation)
+
 **Role**: Area Denial & Volatile Tank
+
 **Visual Style**: Tall, corrupted flesh with rune-scarred body and glowing pale blue inner light
+
 **Weapon / Ability Style**: Grief-powered shockwaves, Cursed Thrall command, chain-reaction eruptions
+
 
 
 > “His scream isn’t a sound—it’s a memory shattering.”
@@ -303,6 +327,7 @@ Final title: *The Mourner*. His pain is not just fuel. It’s memory.
 ---
 
 [← Return to Home](./index.md)
+
 - [H.I.L.T Lore Entries](HILT-Lore-Entries)
 - [H.I.L.T Joke Lore](HILT-Joke-Lore)
 - [H.I.L.T x Bravo-7 Sitcom](HILT-x-Bravo-7-Sitcom)
