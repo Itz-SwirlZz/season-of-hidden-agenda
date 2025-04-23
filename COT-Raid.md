@@ -7,127 +7,52 @@
 - [H.I.L.T Members](H.I.L.T%20Members.html)
 - [C.o.T Raid Exotics](C.o.T%20Raid%20Exotics.html)
 
-# Brief Overview
+## Chamber of Trails – Brief Encounter Overview
 
-The Chamber of Trails is the pinnacle raid within the Season of Hidden Agenda. Set deep within a Hive sanctum buried in shadowed regrets, it pits fireteams against the very memories of Bravo-7 and the trauma woven into Kezen, the Undermind of Regret.
-
-
----
-
-Encounter I – Kiln Auga’thuun: The Silent Foundation
-
-Arena: Collapsed Hive Temple
-
-Three glowing Hive runes.
-
-Kiln roams silently with twin cleavers.
-
-
-Mechanics:
-
-Phase I – The Foundation Trial: Empower runes using Seismic Shards. Survive Oath Pulse phases with zero movement.
-
-Phase II – Silent Judgment: Stand still in runes as Kiln kneels. Success opens sealed wall.
-
-Phase III – Final Stand: Full DPS. Kiln uses tracking strikes and explosive axe combos.
-
-
-Wipe Mechanic: “The Foundation cracked beneath your feet.”
-
-Challenge: Unbroken Line – No Guardian may die or be locked out by Oath Pulse. Reward: Shield ornament.
-
+A grief-scarred Hive ritual site buried beneath Gliese, haunted by echoes of H.I.L.T. Each encounter tests not only strength—but memory, restraint, and the ability to carry the pain of others.
 
 ---
 
-Encounter II – Kapaar: Furnace Trial
-
-Arena: Shifting boiler facility
-
-Heat zones and soulfire hazards.
-
-
-Mechanics:
-
-Phase I – Pressure Zones: Rotate between safe zones.
-
-Thermal Charge: Fuel cores open new paths.
-
-Phase II – Vent Calibration: Teams split to redirect and deliver.
-
-Final Phase: Kapaar enters with flamethrower. Rotate between cool spots while dodging soulfire spirals.
-
-
-Wipe Mechanic: “You played with fire.”
-
-Challenge: Controlled Combustion – No Guardian can remain in a heat zone longer than 2 seconds. Reward: Flame glow.
-
+### Encounter I – Kiln Auga’thuun: The Silent Foundation
+- Empower one rune via Seismic Shards while surviving Oath Pulses.
+- Stand motionless in all three runes during Silent Judgment.
+- Final Stand includes precision-only wipe mechanic.
+- Redemption: Perfect motionless execution removes Kiln’s wipe move.
 
 ---
 
-Encounter III – Ghar’kaan: The Crystal-Eyed Watcher
-
-Arena: Tower-sniper ritual chamber
-
-Mechanics:
-
-Phase I – Tower Shift: One Guardian becomes “Charmed.” Cleanse via Focus Beads or suffer.
-
-Failsafe: Killing a charmed ally grants Ghar’kaan power.
-
-Phase II – Crystal Resonance: Match glyphs and snipe towers.
-
-Final Phase: Arena combat. Crystal Flash and charm zones force split team strategy.
-
-
-Wipe Mechanic: “Your will was not your own.”
-
-Challenge: Through Her Eyes – No charmed ally may be killed. Reward: Lore + sniper boost.
-
+### Encounter II – Kapaar: Furnace Trial
+- Rotate between safe zones to avoid heat stacks.
+- Split team to calibrate vents and deliver thermal charges.
+- Final phase includes rotating Soulfire Spirals and targeted scorch.
+- Redemption: If all heat is managed perfectly, Kapaar disables his flamethrower and fights unarmed.
 
 ---
 
-Encounter IV – Harth’noak: The Mourning Bomb
-
-Arena: Pulsing Hive tomb
-
-Mechanics:
-
-Emotional Volatility: Manage Pressure Threshold.
-
-Phase I – Calming Protocol: Use Remnants of Calm to stabilize.
-
-Phase II – Cursed Thrall Control: Prevent spikes from explosions.
-
-Phase III – Defusal Runes: Timed collection.
-
-Final Phase: Choose to shoot the core or bring peace.
-
-
-Wipe Mechanic: “He wasn’t angry. He was in pain.”
-
-Challenge: No Sorrow Spilled – Complete encounter without killing Harth’noak. Reward: Ghost Shell.
-
+### Encounter III – Ghar’kaan: The Crystal-Eyed Watcher
+- Cleanse Charmed Guardians using Focus Beads; killing them empowers her.
+- Retrieve correct relic snipers and snipe glyphs in synchronized pairs.
+- Final phase includes Crystal Flash, Soulspotting, and Charm Zones.
+- Redemption: No Mercy Kills + all glyphs synced removes Crystal Flash and replaces with skill-based reflections.
 
 ---
 
-Final Encounter – Kezen: The Undermind of Regret
+### Encounter IV – Harth’noak: The Mourning Bomb
+- Maintain his emotional Pressure Threshold with Remnants of Calm.
+- Suppress cursed Thralls before detonations.
+- Defusal Runes phase leads to a one-Guardian choice: end his life or offer peace.
+- Redemption: Perform Emote Failsafe if grief surges. If peace is chosen with the Remnant, Harth’noak is saved.
 
-Arena: Hive soulspace with echoing glyphs
+---
 
-Mechanics:
+### Final Encounter – Kezen: The Undermind of Regret
+- Match glyph relics and defeat Shadow of Regret beneath the correct rune in Shadow Realm.
+- Defeat returning H.I.L.T. phantoms in a mirrored battle phase.
+- Reflect Soul Pulses and free Memory-Locked Guardians during collapse.
+- Redemption: At 33% HP, “Let her remember?” appears. Choosing peace and meeting conditions triggers a cinematic resolution and bonus rewards.
 
-Phase I – Conjuring Disruption: Collect 4 relics based on Kezen’s signs. Deposit them in sync.
+---
 
-Phase II – H.I.L.T. Shadows: Battle shadow versions of Kiln, Kapaar, Ghar’kaan, or Harth’noak.
-
-Phase III – Mask Break: Cinematic transition into grief-fueled soulspace.
-
-Final Phase – The Undermind Unleashed: Survive Rift Collapse, Memory Lock, and reflect Soul Pulses.
-
-
-Wipe Mechanic: “If I don’t remember them… maybe I won’t feel it anymore.”
-
-Challenge: Memory Unbroken – Reflect every Soul Pulse Kezen emits. Reward: Emote + Exotic boost.
 
 
 # Detailed Raid Mechanics
