@@ -200,9 +200,6 @@ Zakk still drinks from it daily.
 
 
 ---
+
 [← Return to Home](./index.md)
 
-
-
----
-[← Return to Home](./index.md)
