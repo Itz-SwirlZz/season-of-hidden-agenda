@@ -37,7 +37,7 @@ Choose a section from the index below.
 ---
 
 ## **SEASONAL ACTIVITIES**
-- [SOHA New Gamemodes](SOHA-Season-Activities)
+- [SOHA New Gamemodes](SOHA-Season-Activities.md)
 - [Verdant Grave Dungeon](Verdant-Grave-Dungeon)
 - [VG Post Dungeon Lore](VG-Post-Dungeon-Lore)
 - [VG Exotics](VG-Exotics)
