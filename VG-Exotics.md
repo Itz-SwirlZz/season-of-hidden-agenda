@@ -1,6 +1,12 @@
 ---
 ---
 
+**SOHA Navigation:**  
+[🎮 New Gamemodes](SOHA-Season-Activities.md) | [🌿 Verdant Grave](Verdant-Grave-Dungeon) | [📓 Post-Dungeon Lore](VG-Post-Dungeon-Lore) | [💎 VG Exotics](VG-Exotics) | [🏰 C.O.T. Raid](COT-Raid) | [🧬 Raid Exotics](COT-Raid-Exotics)
+
+---
+
+
 Dungeon Exotics – Verdant Grave
 
 Each weapon grown from the Flower Fields carries more than petals—it carries intent. Every pull of the trigger says something about who you are, and Pistillum made sure the garden will remember it.
