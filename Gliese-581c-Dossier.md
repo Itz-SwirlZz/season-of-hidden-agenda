@@ -1,3 +1,10 @@
+---
+---
+
+**Open World Navigation:**  
+[📍 Glenndale & Glennstone](Glenndale-and-Glennstone-EDZ-Codex.html) | [🌌 Gliese 581c](Gliese-581c-Dossier.html) | [🛠 Exotic Weapons](Open-World-Exotic-Weapons) | [🧥 Exotic Armor](Open-World-Exotic-Armor)
+
+---
 
 # Gliese 581c – Planetary Dossier  
 *Codex Entry: “Balance is not a place. It’s the distance between extremes.”*
