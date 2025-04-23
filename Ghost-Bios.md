@@ -1,10 +1,7 @@
 ---
 ---
 
- HEAD
- restore-index
 
- bb4f1b9 (Replaced broken Obsidian footer links with working GitHub links)
 [Bravo-7 Members](obsidian://open?vault=Season_of_Hidden_Agenda_Vault&file=Bravo-7%2FMember%20Bios)
 
 
@@ -81,8 +78,6 @@ No one knows how she keeps up with Garcia, but she does—and *loves* every seco
 
 Quasie once launched herself at a Hive Knight mid-battle because she thought he “looked like he needed a podcast.” She has a catchphrase: *“Dare to glitch.”* And somehow… it fits.
 ---
+
 [← Return to Home](./index.md)
 
-
----
-[← Return to Home](./index.md)
