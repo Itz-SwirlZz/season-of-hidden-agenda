@@ -1,9 +1,11 @@
 ---
 ---
 
+**Bravo-7 Navigation:**  
+[📖 Bios](Bravo-7-Bios) | [📝 Lore](Member-Lore-Entries) | **🤣 Joke Lore** | [💥 Exotics](Member-Exotics) | [👻 Ghost Bios](Ghost-Bios) | [🔮 Ghost Lore](Ghost-Lore-Entries)
 
-- [Member Lore Entries](Member%20Lore%20Entries.html)
-- [Ghost Lore Entries](Ghost%20Lore%20Entries.html)
+---
+
 
 Bravo-7 Members
 ---
@@ -203,3 +205,5 @@ Zakk still drinks from it daily.
 
 [← Return to Home](./index.md)
 
+**Bravo-7 Navigation:**  
+[📖 Bios](Bravo-7-Bios) | [📝 Lore](Member-Lore-Entries) | **🤣 Joke Lore** | [💥 Exotics](Member-Exotics) | [👻 Ghost Bios](Ghost-Bios) | [🔮 Ghost Lore](Ghost-Lore-Entries)
