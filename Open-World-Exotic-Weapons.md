@@ -1,7 +1,11 @@
 ---
 ---
 
-[Open World Exotic Armor](Open%20World%20Exotic%20Armor.html)
+**Open World Navigation:**  
+[📍 Glenndale & Glennstone](Glenndale-and-Glennstone-EDZ-Codex.html) | [🌌 Gliese 581c](Gliese-581c-Dossier.html) | [🛠 Exotic Weapons](Open-World-Exotic-Weapons) | [🧥 Exotic Armor](Open-World-Exotic-Armor)
+
+---
+
 ## M.A.U.L.E.R.
 *Exotic Rocket Launcher*
 **Mostly Assumed, Useful Launcher Ever Realized**.
