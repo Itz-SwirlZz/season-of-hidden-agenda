@@ -1,11 +1,9 @@
 ---
 ---
+**Bravo-7 Navigation:**  
+[📖 Bios](Bravo-7-Bios) | [📝 Lore](Member-Lore-Entries) | [🤣 Joke Lore](Bravo-7-Joke-Lore) | **💥 Exotics** | [👻 Ghost Bios](Ghost-Bios) | [🔮 Ghost Lore](Ghost-Lore-Entries)
 
-
-- [Member Bios](Member%20Bios.html)
-- [Member Lore Entries](Member%20Lore%20Entries.html)
-- [Ghost Bios](Ghost%20Bios.html)
-- [Ghost Lore Entries](Ghost%20Lore%20Entries.html)
+---
 
 Bravo-7 Exotic Gear Codex (Full Details)
 
@@ -280,12 +278,9 @@ Lore Tab – "Punch Life in the Face":
  “Remember to punch life in the face—and demand it let you reach your goal!”
  What a myth. What a legend. What a person to be alive with.
 
-
-
-
-
-
-
-
 ---
+
 [← Return to Home](./index.md)
+
+**Bravo-7 Navigation:**  
+[📖 Bios](Bravo-7-Bios) | [📝 Lore](Member-Lore-Entries) | [🤣 Joke Lore](Bravo-7-Joke-Lore) | **💥 Exotics** | [👻 Ghost Bios](Ghost-Bios) | [🔮 Ghost Lore](Ghost-Lore-Entries)
