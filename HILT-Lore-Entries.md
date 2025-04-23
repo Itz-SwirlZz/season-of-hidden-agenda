@@ -1,12 +1,11 @@
 ---
 ---
 
-- [H.I.L.T Members](H.I.L.T%20Members.html)
-- [H.I.L.T Joke Lore](H.I.L.T%20Joke%20Lore.html)
-- [C.o.T Raid](C.o.T%20Raid.html)
-- [C.o.T Raid Exotics](C.o.T%20Raid%20Exotics.html)
+**H.I.L.T. Navigation:**  
+[🛡 Members](HILT-Members) | **📜 Lore** | [🎭 Joke Lore](HILT-Joke-Lore) | [📺 Sitcom Crossover](HILT-x-Bravo-7-Sitcom)
 
 ---
+
 
 ## Kezen – Final Memory Fragment
 
@@ -164,6 +163,9 @@ Not for the Hive.
 
 
 ---
-
 ---
+
 [← Return to Home](./index.md)
+
+**H.I.L.T. Navigation:**  
+[🛡 Members](HILT-Members) | **📜 Lore** | [🎭 Joke Lore](HILT-Joke-Lore) | [📺 Sitcom Crossover](HILT-x-Bravo-7-Sitcom)
