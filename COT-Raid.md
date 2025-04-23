@@ -655,7 +655,7 @@ While **stationary**, gain increased **Stability** and **Target Acquisition**.
 
 ### Chisel of Stillness *(Kiln – Void Pulse Rifle)*  
 > *“Measured strikes make unshakable peace.”* —Kiln
-
+![Chisel.png](/assets/Chisel.png)
 - **Unique Perk:** *Hidden Addition* – Repeated hits add +1 bullet to the burst (3 up to 6); Repeated Precision hits spawn void clusters with increasing damage    
 - **Frame:** Adaptive (3-burst)  
 - **Damage Type:** Void
