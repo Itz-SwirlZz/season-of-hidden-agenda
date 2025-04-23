@@ -241,5 +241,5 @@ At instability levels above 66%, fireteams begin to hear **glitched Hive prayers
 - **Activity Identity:** Blackwire Protocol pushes Guardians to **hold the line when nothing around them stays still**—when even the mission itself may be lying.
 
 ---
-
+[← Return to Home](./index.md)
 
