@@ -1,13 +1,11 @@
 ---
 ---
 
- HEAD
- bb4f1b9 (Replaced broken Obsidian footer links with working GitHub links)
- restore-index
-- [H.I.L.T Lore Entries](H.I.L.T%20Lore%20Entries.html)
-- [H.I.L.T Joke Lore](H.I.L.T%20Joke%20Lore.html)
-- [C.o.T Raid](C.o.T%20Raid.html)
-- [H.I.L.T Members](H.I.L.T%20Members.html)
+**SOHA Navigation:**  
+[🎮 New Gamemodes](SOHA-Season-Activities.md) | [🌿 Verdant Grave](Verdant-Grave-Dungeon) | [📓 Post-Dungeon Lore](VG-Post-Dungeon-Lore) | [💎 VG Exotics](VG-Exotics) | [🏰 C.O.T. Raid](COT-Raid) | [🧬 Raid Exotics](COT-Raid-Exotics)
+
+---
+
 
 ---
 
