@@ -140,121 +140,533 @@ The Chamber of Trials is the raid featured in Season of Hidden Agenda, focusing 
 
 
 ---
+## Encounter I – Kiln Auga’thuun: The Silent Foundation
 
-Encounter I – Kiln Auga'thuun: The Silent Foundation
+**Arena:**  
+A collapsed Hive sanctuary beneath Gliese. The chamber features three dormant Hive runes and a solemn, circular arena surrounded by broken monoliths and ritual carvings. The silence feels ceremonial.
 
-Arena: A collapsing Hive temple marked by glowing runes and silence.
-
-Mechanics:
-
-The Foundation Trial: Empower Hive runes using Seismic Shards while Oath Pulse forces players to remain absolutely still during surges.
-
-Silent Judgment: Players must stand still in specific empowered runes while Kiln kneels. Failure leads to rune suppression.
-
-Final Stand: Full DPS phase. Kiln uses swift tracking cleaver strikes and seismic axe combos that can lock out players from the arena.
-
-
-Wipe Mechanic: “The Foundation cracked beneath your feet.”
-
-Challenge – Unbroken Line: No Guardian may die or be locked out by Oath Pulse surges.
-Reward: Shield Ornament (Unlocks Titan Exotic: Toxin’s Spist)
-
+**Opening Visual:**  
+Kiln Auga’thuun kneels at the center of the room, cleavers stabbed into the ground at his sides. He does not react to the fireteam’s presence until the first rune is disturbed.
 
 ---
 
-Encounter II – Kapaar: Furnace Trial
+### Phase I – The Foundation Trial _(Sample Rune Test)_
 
-Arena: A hazardous boiler room with moving platforms, cooling zones, and environmental flame hazards.
-
-Mechanics:
-
-Pressure Zones: Avoid heat surges by rotating between safe cooldown platforms.
-
-Thermal Charge: Empower fuel cores to open valves, forcing players to carry heated charges while avoiding burning paths.
-
-Vent Calibration: Teams split to manually redirect vent paths using heat switches.
-
-Final Phase: Kapaar enters with a modified Soulfire flamethrower, forcing cooldown rotation while avoiding burning spiral jets.
-
-
-Wipe Mechanic: “You played with fire.”
-
-Challenge – Controlled Combustion: No Guardian may remain inside an active heat zone longer than 2 seconds.
-Reward: Flame Glow Ornament
-
+- One of the three Hive runes activates at random.
+- Guardians must slay Oathbound Knights to collect **Seismic Shards** and deposit them into the active rune.
+- Once deposited, Kiln releases an **Oath Pulse** – a wave of void energy. **All Guardians must remain completely still**.
+- **Failure to remain still causes Kiln to single out and instantly kill the offending Guardian** with a single cleave.
+- Upon failure, Kiln **shakes his head** in disappointment and returns to roaming the arena silently.
+- If a Guardian fumbles positioning at a rune **before** the Oath Pulse, Kiln performs one punishing strike, then resumes pacing.
+- Only one rune is tested in this phase—serving as a preview for what’s to come.
 
 ---
 
-Encounter III – Ghar’kaan: The Crystal-Eyed Watcher
+### Phase II – Silent Judgment _(True Ritual Phase)_
 
-Arena: A sniping tower wrapped in a Hive ritual chamber.
+- All three Hive runes activate.
+- Guardians must stand in each rune simultaneously.
+- Kiln returns to the center and kneels.
+- A synchronized Oath Pulse triggers across the entire arena.
+- **All three players must remain completely motionless inside their respective runes.**
+- **Any movement or misstep results in an immediate wipe.**
 
-Mechanics:
-
-Tower Shift: One random Guardian becomes “Charmed.” Allies must use Focus Beads to cleanse them or risk fatal mind control.
-
-Failsafe: If a charmed ally is killed, Ghar’kaan gains significant power and triggers a high-damage pulse.
-
-Crystal Resonance: Match Hive glyphs across towers while defending sniping points and managing resonance crystals.
-
-Final Phase: Fast-paced arena movement with laser sniping, forced charm swaps, and rotating cleanse mechanics.
-
-
-Wipe Mechanic: “Your will was not your own.”
-
-Challenge – Through Her Eyes: No Charmed Guardian may be killed during the encounter.
-Reward: Lore Fragment + Sniper Boost (Unlocks Hunter Exotic: Grips of Kezen)
-
+> Upon success: Kiln rises, turns his back to the fireteam, and **slashes open the sealed wall behind him** with both cleavers.  
+> A new chamber is revealed. A timer begins—**all Guardians must enter the arena before the passage seals**.  
+> **Any Guardian who dies or misses the window is locked out permanently.**
 
 ---
 
-Encounter IV – Harth’noak: The Mourning Bomb
+### Phase III – Final Stand: The Cracked Foundation
 
-Arena: A Hive tomb filled with grief-linked explosives and cursed Thrall.
+- Inside the final chamber, Kiln becomes fully aggressive.
+- Combat abilities:
+  - **Void Tracking Cleaves** – Boomerang-like, homing axe throws.
+  - **Staggering Strikes** – Suppresses class abilities on hit.
+  - **Cleaver Sync Slam** – Kiln fuses both axes and attempts an arena-wide wipe.
 
-Mechanics:
+> **Wipe Mechanic Visual Cue:** Kiln’s **head begins to glow violet**.  
+> Guardians must focus damage on the head to **interrupt the wipe**.  
+> Failure results in: *“The Foundation cracked beneath your feet.”*
 
-Emotional Volatility: Guardians must monitor Harth’s emotional state—too much grief triggers explosions.
-
-Calming Protocol: Collect and deploy Remnants of Calm to suppress his volatility meter.
-
-Cursed Thrall Control: Special cursed Thrall will charge Harth when ignored; killing too many increases his rage.
-
-Defusal Runes: Guardians must coordinate rune collection and stand in sigils to suppress the detonation cycle.
-
-Final Phase: Guardians are given the choice to end him or offer peace—determines outcome.
-
-
-Wipe Mechanic: “He wasn’t angry. He was in pain.”
-
-Challenge – No Sorrow Spilled: Complete encounter peacefully without killing Harth’noak.
-Reward: Ghost Shell (Unlocks Titan Exotic: Toxin’s Spist)
-
+- **Any Guardian who dies during Phase III is permanently locked out** for the remainder of the encounter.
 
 ---
 
-Final Encounter – Kezen: The Undermind of Regret
+### Challenge Mode – Unbroken Line
 
-Arena: An echoing Hive soulspace filled with glyphs and crumbling memory pillars.
+> No Guardian may die or be incapacitated by Oath Pulse or movement errors throughout the encounter.
 
-Mechanics:
-
-Conjuring Disruption: Kezen casts random Hive signs across the arena. Guardians must collect and sync 4 corresponding relics before she completes the ritual.
-
-H.I.L.T. Shadows: Echo versions of Kiln, Kapaar, Ghar’kaan, and Harth’noak appear in rotation. Each mimic original abilities.
-
-Mask Break: A cinematic mask-shattering sequence leads to the final grief-fueled arena.
-
-The Undermind Unleashed: Reflect Soul Pulses back using the Memory Lock mechanic. Survive Rift Collapse sequences. If not reflected properly, entire team wipes.
-
-
-Wipe Mechanic: “If I don’t remember them… maybe I won’t feel it anymore.”
-
-Challenge – Memory Unbroken: Reflect every Soul Pulse Kezen emits.
-Reward: Emote + Exotic Boost (Unlocks Warlock Exotic: Undermind of Kezen)
-
+**Reward:** Shield Ornament – _Silent Conviction_
+Completing challenge as titan unlocks exotic "Toxins Spist" @ Kezen's Encounter.
 
 ---
+
+### Redemption Detail – Duel of Equals
+
+If the fireteam completes all phases perfectly (no deaths, no failed pulses, all enter final chamber):
+
+- Before the final fight, Kiln **kneels once more**, planting one cleaver into the ground and acknowledging the team with a silent pause.
+- During Final Stand, Kiln **does not perform the Cleaver Sync Slam**.  
+  The wipe mechanic is removed entirely—his duel is now **one of respect**, not punishment.
+
+---
+
+## Encounter II – Kapaar: Furnace Trial
+
+**Arena:**  
+A volatile Hive boiler facility deep beneath Gliese. The structure groans with shifting heat vents, exposed pressure valves, and flickering hazard lights. The air is thick with smoke and volatile soulfire gas.
+
+**Opening Visual:**  
+As the team enters, the floor shakes. **Kapaar crashes down** from a grated catwalk, dragging his custom flamethrower *Gospel*. He growls through his helmet:
+
+> “Hot enough for regret?”
+
+He laughs, igniting the vents around him as the battle begins.
+
+---
+
+### Phase I – Pressure Zones
+
+- Rotating **heat zones** glow red across the arena floor.
+- Guardians must continuously rotate between **safe zones** to avoid gaining stacks of **Burning Pressure** (death at Tier 3).
+- **Thermal Charges** drop from Incendiary Thralls and must be thrown into **fuel cores** to open sealed doors and progress.
+- Standing still or straying too long in a hot zone causes an explosion and scorches the team.
+
+---
+
+### Phase II – Vent Calibration
+
+- Teams split between two roles:
+  - One reroutes pressure via **Override Switches** to control steam paths.
+  - The other delivers **Thermal Charges** to overheated cores under a time limit.
+- Failed deliveries cause **Soulflare Eruptions**, which flood half the arena with deadly heat.
+- Team coordination and zone memory are essential.
+
+---
+
+### Final Phase – Kapaar Unleashed
+
+- Kapaar enters the active arena with *Gospel*, fully enraged.
+- The arena’s heat zones rotate continuously.
+- New mechanics include:
+  - **Soulfire Spirals** – Sweeping fire beams in rotational patterns.
+  - **Pressure Chain** – Overexposed Guardians are marked and targeted with chain-scorch lunges.
+  - **Blister Charge** – At 66% and 33% health, Kapaar vents pressure and dashes at the farthest Guardian, scorching terrain in a straight line.
+
+> The entire phase is a chaotic test of movement, cooldown use, and space management.
+
+---
+
+### Wipe Mechanic
+
+> *“You played with fire.”*  
+Triggered if all Guardians are caught in heat zones simultaneously or if **three fuel deliveries fail** during the encounter.
+
+---
+
+### Challenge Mode – Controlled Combustion
+
+> No Guardian can remain in any heat zone for longer than 2 seconds.
+
+**Reward:** Flame Glow – _Blistershine_
+
+---
+
+### Redemption Detail – Cooling Point
+
+If all of the following conditions are met before **Kapaar reaches 33% health**:
+
+- No Guardian has more than **Tier 1 scorch stacks**
+- No fuel deliveries fail
+- No Guardian is ignited by **Soulfire Spirals**
+
+Then at **33% HP**, Kapaar pauses mid-dash.
+
+> He slams *Gospel* into the floor and lets it burn out.  
+> He rips off his helmet, revealing half his face seared with old flame scars.
+
+> **Kapaar (quietly):**  
+> “Alright... *you’re tougher than fire.*”  
+> “Then let’s finish this... no tricks. Just ash and will.”
+
+- From this point forward, **Kapaar fights unarmed**:
+  - Uses **ground-punch shockwaves** and flame-charged melee kicks.
+  - The arena stops rotating zones but continues to **restrict space** with blast shutters.
+  - This phase becomes a high-focus brawl requiring smart spacing, cooldown timing, and finishers.
+
+> **Lore Note:**  
+> _Kapaar never feared death—he feared apathy._  
+> He wanted to see fire in others—not just survive it, but become it.
+
+---
+
+
+## Encounter III – Ghar’kaan: The Crystal-Eyed Watcher
+
+**Arena:**  
+A ritual tower suspended within a fractured Hive spire. Four crystal glyph pillars orbit a glowing soul prism. The space is warped—sound lingers too long, and shadows flicker unnaturally.
+
+**Opening Visual:**  
+Ghar’kaan floats above the arena on a sniper platform, face obscured beneath her helm. Her gemlike eye glows with violet light. She addresses the fireteam in a calm, emotionless voice:
+
+> “I see you. Not as you are—but as you fear you’ll become.”
+
+---
+
+### Phase I – Tower Shift
+
+- One Guardian is randomly **Charmed**, marked by a violet tether connected to Ghar’kaan’s sniper perch.
+- While Charmed:
+  - Movement becomes inverted or locked.
+  - Class abilities misfire.
+  - The Guardian begins walking toward glyph pillars to sabotage them.
+  - Proximity triggers a disruptive pulse that destabilizes crystal control.
+
+- Teammates must locate and use **Focus Beads**, dropped from **Crystalbind Acolytes**, to cleanse the affected Guardian.
+
+> **Failsafe – Mercy Kill:**  
+> If cleansing fails, a teammate may perform a Mercy Kill.  
+> - This cancels the sabotage but empowers Ghar’kaan.
+> - Affected glyph pillar becomes locked for the rest of the phase.
+> - Multiple Mercy Kills apply **Guilt-Fused Memory**, accelerating soul prism instability.
+
+---
+
+### Phase II – Crystal Resonance
+
+- The central soul prism displays **animated glyphs** that must be matched with their corresponding **crystal glyph pillars**.
+
+> Before shooting, the correct **Sniper Relic** must be retrieved from a nearby ritual pedestal:
+>
+> - **Void Sniper Relic** – Circling/orbiting glyphs  
+> - **Solar Sniper Relic** – Jagged/spiked glyphs  
+> - **Arc Sniper Relic** – Wave/current glyphs
+
+- Each relic provides **one empowered shot** before burning out.
+- Guardians must fire their relic snipes in **perfect synchronization** with the glyph’s mirrored twin on the opposite side.
+- Failed timing resets glyphs and summons **Mind Echoes**—illusory hostile copies of the team.
+
+> **Missed Shot Wipe Mechanic – Prism Collapse:**  
+> If a relic sniper shot **completely misses** its target:
+> - All glyph pillars overload.  
+> - The prism ruptures.  
+> - Mind Echoes overrun the arena.
+> - Tower collapses inward.
+
+**Wipe Text:** *“The prism shattered your focus.”*
+
+---
+
+### Final Phase – Eye of Control
+
+- Ghar’kaan descends. The sniper tower dissolves.
+- She now cycles:
+  - **Crystal Flash** – Blinds and disables HUD + class abilities.
+  - **Charm Zones** – Creates gravity-locked zones that pull players in.
+  - **Soulspotting** – Targets one Guardian with a delayed glyph snipe through a mirrored lens. Players must break LoS.
+
+- Positioning and movement become critical. Team must rotate and communicate precisely under pressure.
+
+---
+
+### Wipe Mechanic
+
+> *“Your will was not your own.”*  
+Triggered if:
+- A Charmed Guardian is killed more than once  
+- Glyph matching fails three times  
+- The soul prism overloads  
+- A relic sniper shot is missed (see Prism Collapse)
+
+---
+
+### Challenge Mode – Through Her Eyes
+
+> No Charmed Guardian may be killed during the entire encounter.
+
+**Reward:** Sniper Boost + Lore Unlock – _Mindglass Precision_
+
+---
+
+### Redemption Detail – Voluntary Clarity
+
+If the fireteam:
+- Uses only **Focus Beads** to cleanse every Charmed Guardian
+- Hits **all glyphs in perfect sync**
+- Uses the correct **relic type** every time
+
+Then during her descent, Ghar’kaan hesitates.
+
+> “This… wasn’t what I wanted. But I needed to know if someone could break the pattern.”
+
+- **Crystal Flash** is removed from her rotation.
+- She instead uses:
+  - **Void Pull** – A harmless gravitational tug.
+  - **Prism Break** – A beam that splits on impact with reflective surfaces. Teammates must block or intercept the beams to protect the marked player.
+
+> **Lore Note:**  
+> _Ghar’kaan does not seek control. She seeks proof that someone can endure what broke her—and still remain themselves._
+
+---
+
+
+## Encounter IV – Harth’noak: The Mourning Bomb
+
+**Arena:**  
+A sorrow-drenched Hive tomb beneath the Chamber, cracked and unstable. Blue light pulses through the veins of the stone floor. At its center, the massive, rune-scarred figure of **Harth’noak** hovers in silence—his grief a bomb waiting to detonate.
+
+---
+
+### Phase I – Calming Protocol
+
+- The fireteam must manage the **Pressure Threshold**, a grief meter that rises as Harth’noak absorbs ambient soul energy.
+- If the meter reaches 100%, his emotional instability causes a **Grief Bomb** detonation (see Wipe Mechanic).
+- Defeat **Fallen Echoes** and **Hallowed Acolytes** to collect **Remnants of Calm**.
+- Deliver Remnants to specific ritual altars around the arena to lower the threshold.
+- Too many missed deposits will cause sudden **spikes in pressure** and increase enemy spawns.
+
+---
+
+### Phase II – Cursed Thrall Control
+
+- As the tomb destabilizes, **Cursed Thralls** begin to spawn in waves.
+- Each detonation from a Thrall further accelerates the **Pressure Threshold**.
+- Players must rotate between **calming rituals** and **Thrall suppression**, maintaining emotional and spatial control of the arena.
+
+---
+
+### Emote Failsafe – Show Him You’re Still There
+
+If the **Pressure Threshold surpasses 75%** without calming progress, **Harth’noak begins to spiral**.
+
+> *“He’s slipping… He can’t feel you.”*
+
+- **All Guardians must perform an emote within 10 seconds.**
+- The emote can be performed anywhere in the arena—any gesture works.
+
+**If successful:**
+- Harth’noak releases a soft rumble.
+- The **Pressure freezes for 8 seconds**, buying precious recovery time.
+
+**If failed:**
+- **The Grief Bomb detonates immediately**.
+
+> **Wipe Text:** *“You never reached him.”*
+
+---
+
+### Phase III – Defusal Runes
+
+- Once the Pressure Threshold is stabilized, **rune fragments** scatter across the arena.
+- Guardians must collect and return the fragments to the core without letting enemy pressure reset the ritual.
+- Timed coordination is critical—too slow, and the **Threshold starts climbing again**.
+
+---
+
+### Final Phase – The Core Decision
+
+- Once all runes are restored, **Harth’noak falls to his knees**, trembling, hands open.
+- A single Guardian is prompted:
+
+> *“Will you carry his burden?”*
+
+That Guardian alone can:
+
+**Option 1 – Shoot the Core:**
+- Harth’noak does not resist.
+- A violet light pulses. He detonates in a wave of soulfire.
+- A whisper from **Ghar’kaan’s memory** echoes:
+  > “He wasn’t ready… but you were.”
+
+**Option 2 – Offer Peace:**
+- If the Guardian holds a **Remnant of Ghar’kaan**, they may place it in his hands.
+- Harth’noak clutches it.
+- His core dims. His trembling stops.
+
+> Ghar’kaan’s voice echoes softly:
+> *“She gave me peace. He… never got that. Until now.”*
+
+- The arena glows faintly, the grief dissipates, and the path forward opens without violence.
+
+---
+
+### Wipe Mechanic – The Grief Bomb
+
+> *“He wasn’t angry. He was in pain.”*
+
+Triggers if:
+- The **Pressure Threshold** reaches 100%
+- The **emote failsafe is ignored or failed**
+- **Core rituals are disrupted** during defusal or decision
+
+The arena collapses in a detonation of soul energy.
+
+---
+
+### Challenge Mode – No Sorrow Spilled
+
+> Complete the encounter without killing Harth’noak.
+
+**Reward:** Ghost Shell – _"Gravemind Core"_
+
+---
+
+### Redemption Detail – He Let Go
+
+If:
+- The Pressure Threshold never breaches critical
+- No one shoots the core
+- A Guardian successfully offers peace with the **Remnant of Ghar’kaan**
+
+Then:
+- Harth’noak closes his hands, kneels fully, and fades into silence.
+
+> Ghar’kaan’s voice echoes:
+> *“He remembers her… and he remembers you.”*
+
+The tomb calms. No loot fanfare. Just release.
+
+> **Lore Note:**  
+> _He was never meant to be a weapon. He was a memory denied peace—until someone was brave enough to reach him with more than force._
+
+---
+
+
+## Final Encounter – Kezen: The Undermind of Regret
+
+**Arena:**  
+A fragmented Hive soulspace—drifting glyphs, spiraling void energy, and broken ritual fragments suspended in memory. The ritual collapses around her. Echoes of H.I.L.T. flicker like forgotten dreams. Kezen, veiled in braided cloth and bone, hovers in silence, controlling the arena like a conductor of sorrow.
+
+---
+
+### Phase I – Conjuring Disruption
+
+- The arena displays **four rune symbols**, each chosen from three possible glyphs:
+  - `/` – Sword Relic  
+  - `X` – Bones Relic  
+  - `B-7` – Bravo-7 Fragment Relic
+
+> Example glyph layout: `/`, `/`, `X`, `B-7`
+
+- The fireteam must:
+  1. Identify all four runes and determine the **duplicated symbol**
+  2. Retrieve relics that match any of the four active symbols
+  3. **Deposit all four relics simultaneously** (order does not matter, but timing does)
+
+---
+
+#### Shadow Realm – Rune Mirror Phase
+
+- **Two Guardians are pulled** into a Shadow Realm version of the arena.
+- Inside are **three rune sites** and a **random Shadow of Regret**—a corrupted version of a H.I.L.T. member (Kiln, Kapaar, Ghar’kaan, or Harth’noak).
+
+> The Shadow roams between runes **without attacking unless provoked**.
+
+- The goal:
+  - Wait for the Shadow to walk beneath the rune matching the **duplicated glyph from the real realm**
+  - Then **engage and kill it before time runs out**
+
+- If provoked too early, the Shadow becomes aggressive, strafe-dodges, and may escape if not killed in time.
+
+---
+
+#### Realm Crossover – Judgment Phase
+
+- If the Shadow of Regret is slain at the correct rune:
+  - It respawns in the real realm as a weakened enemy.
+  - A **glyph floats above its head**, indicating which relic is required to kill it.
+  - If struck by the correct relic, it falls. If not, it remains immune.
+
+- If the wrong rune is used or time expires:
+  - The Shadow escapes empowered, causing:
+    - A **Soullash explosion**
+    - 20-second **memory desync**, locking relic deposits
+
+---
+
+### Phase II – H.I.L.T. Shadows
+
+- Kezen conjures corrupted **phantoms of H.I.L.T. members**, one at a time:
+  - **Kiln** – Oath Pulse zones  
+  - **Kapaar** – Flame spiral hazards  
+  - **Ghar’kaan** – Charmed ally effect  
+  - **Harth’noak** – Grief aura raises Pressure Threshold
+
+- Shadows enrage if left active too long or handled by the same player.
+
+---
+
+### Phase III – Mask Break
+
+- After all Shadows are defeated, a cutscene plays.
+- Kezen’s mask fractures.
+
+> *“If I don’t remember them… maybe I won’t feel it anymore.”*
+
+- The floor collapses. You fall into her soulspace.
+
+---
+
+### Final Phase – The Undermind Unleashed
+
+- Kezen now hovers in a void starfield of glyphs.
+- She cycles between:
+
+  - **Rift Collapse** – Parts of the arena disappear
+  - **Memory Lock** – One Guardian sees Kezen’s past; others must help them escape
+  - **Soul Pulses** – Massive grief blasts that must be **reflected using mirrored glyph shields**
+
+> Reflections require perfect angle and timing. Failed pulses knock back or trigger wipe.
+
+---
+
+### Wipe Mechanic
+
+> *“If I don’t remember them… maybe I won’t feel it anymore.”*
+
+Triggers if:
+- 3 Soul Pulses go unreflected  
+- A Memory Lock isn’t broken  
+- Rift Collapse consumes >75% of arena  
+- Two Shadow Realm failures in one cycle
+
+---
+
+### Challenge Mode – Memory Unbroken
+
+> Reflect every Soul Pulse and cleanse every Memory Lock within 10 seconds.
+
+**Reward:** Exotic Boost + Emote – _Remembrance Ritual_
+
+---
+
+### Redemption Route – Let Her Remember
+
+**At 33% HP**, if the fireteam:
+- Reflects all Soul Pulses  
+- Breaks all Memory Locks  
+- Matches and syncs relics perfectly  
+- A Guardian holds the **Remnant of Ghar’kaan** or **Harth’noak**
+
+Then Kezen collapses, mask breaking fully.
+
+> Prompt appears: _“Let her remember?”_
+
+- If confirmed, the Remnant is consumed.
+- A cinematic plays:
+  - H.I.L.T. echoes appear behind her.
+  - Ghar’kaan’s voice returns:
+    > *“She carried us all. We carry her now.”*
+
+- Kezen fades—no rage, no collapse. Just peace.
+
+---
+
+### Rewards – Redemption Path
+
+- Standard loot drops immediately upon cinematic ending.
+
 
 # H.I.L.T. Legendary Weapon Set  
 *“Forged in grief. Etched in legacy.”*
