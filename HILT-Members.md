@@ -1,10 +1,11 @@
 ---
 ---
 
-- [H.I.L.T Lore Entries](H.I.L.T%20Lore%20Entries.html)
-- [H.I.L.T Joke Lore](H.I.L.T%20Joke%20Lore.html)
-- [C.o.T Raid](C.o.T%20Raid.html)
-- [C.o.T Raid Exotics](C.o.T%20Raid%20Exotics.html)
+- [H.I.L.T Lore Entries](HILT-Lore-Entries)
+- [H.I.L.T Joke Lore](HILT-Joke-Lore)
+- [H.I.L.T x Bravo-7 Sitcom](HILT-x-Bravo-7-Sitcom)
+
+
 # Hive Idolized to Lost Trails
 
 
@@ -301,7 +302,7 @@ Final title: *The Mourner*. His pain is not just fuel. It’s memory.
 
 ---
 
-
-
----
 [← Return to Home](./index.md)
+- [H.I.L.T Lore Entries](HILT-Lore-Entries)
+- [H.I.L.T Joke Lore](HILT-Joke-Lore)
+- [H.I.L.T x Bravo-7 Sitcom](HILT-x-Bravo-7-Sitcom)
