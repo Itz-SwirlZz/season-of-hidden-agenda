@@ -1,7 +1,15 @@
 ---
 ---
 
-*(Catch up with the whole H.I.L.T sitcom joke lore plot at the bottom of [H.I.L.T Joke Lore](H.I.L.T%20Joke%20Lore.html)*
+*(Catch up with the whole H.I.L.T sitcom joke lore plot at the bottom of H.I.L.T Joke Lore.*
+
+---
+
+**H.I.L.T. Navigation:**  
+[🛡 Members](HILT-Members) | [📜 Lore](HILT-Lore-Entries) | [🎭 Joke Lore](HILT-Joke-Lore) | **📺 Sitcom Crossover**
+
+---
+
 
 *Since you all love torturing the producers with a fundraiser and a petition no one notified us about, here it is
 
@@ -567,3 +575,6 @@ Silence.
 
 ---
 [← Return to Home](./index.md)
+
+**H.I.L.T. Navigation:**  
+[🛡 Members](HILT-Members) | [📜 Lore](HILT-Lore-Entries) | [🎭 Joke Lore](HILT-Joke-Lore) | **📺 Sitcom Crossover**
