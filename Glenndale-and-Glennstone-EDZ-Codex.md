@@ -2,7 +2,7 @@
 ---
 
 **Open World Navigation:**  
-[📍 Glenndale & Glennstone](Glenndale-and-Glennstone-EDZ-Codex.html) | [🌌 Gliese 581c](Gliese-581c-Dossier.html) | [🛠 Exotic Weapons](Open-World-Exotic-Weapons) | [🧥 Exotic Armor](Open-World-Exotic-Armor)
+**📍 Glenndale & Glennstone** | [🌌 Gliese 581c](Gliese-581c-Dossier.html) | [🛠 Exotic Weapons](Open-World-Exotic-Weapons) | [🧥 Exotic Armor](Open-World-Exotic-Armor)
 
 ---
 
@@ -40,6 +40,8 @@
 - **Zakk Romletté**
   - *Region:* Both  
   - “The only person banned from both Devrim’s tower *and* the Glennstone rail loop.”
+
+- [Bravo-7 Glenndale Entries](Glenndale-Entries)
 
 ---
 
