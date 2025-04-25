@@ -614,20 +614,35 @@ While **stationary**, gain increased **Stability** and **Target Acquisition**.
 ### Gospel Echo *(Kapaar – Solar Breach-Loaded Grenade Launcher)*  
 > *“My fire speaks when I can’t.”* —Kapaar
 
+![Gospel.png](/assets/Gospel.png)
 - **Unique Perk:** *Scorch Grove* – Flame pools from explosions increase in size & duration based on the number of kills achieved beforehand   
 - **Frame:** Area Denial  
 - **Damage Type:** Solar
 
 **Perk Pool:**  
-- *Column 3:* Incandescent, Field Prep, Ambitious Assassin, Wellspring, Auto-Loading Holster, Lead From Gold  
+- *Column 3:*
+- Incandescent
+- Field Prep
+- Ambitious Assassin
+- Wellspring
+- Auto-Loading Holster
+- Lead From Gold  
 
-- *Column 4:* Scorch Grove, Adagio, One For All, Demolitionist, Adrenaline Junkie, Kill Clip, *Scavenger*
+- *Column 4:*
+- Scorch Grove
+- Adagio
+- One For All
+- Demolitionist
+- Adrenaline Junkie
+- Kill Clip
+- *Scavenger*
 
 ---
 
 ### Witchstring Aria *(Kezen – Strand Hand Cannon)*  
 > *“She weaves loyalty and loss into every shot.”*
 
+![Witchstring.png](/assets/Witchstring.png)
 - **Unique Perk:** *Threadbind* – Precision hits spawn a delayed threadling that homes in on the last-hit target    
 - **Frame:** Adaptive  
 - **Damage Type:** Strand
@@ -639,7 +654,9 @@ While **stationary**, gain increased **Stability** and **Target Acquisition**.
 - Stats for All 
 - Demolitionist
 - Osmosis
-- Wellspring 
+- Wellspring
+
+---
 
 - *Column 4:* 
 - Threadbind
@@ -661,15 +678,30 @@ While **stationary**, gain increased **Stability** and **Target Acquisition**.
 - **Damage Type:** Void
 
 **Perk Pool:**  
-- *Column 3:*  Zen Moment, Perpetual Motion, Triple Tap, Outlaw, Headseeker, *Burst of Joy*  
+- *Column 3:*
+- Zen Moment
+- Perpetual Motion
+- Triple Tap
+- Outlaw
+- Headseeker
+- *Burst of Joy*  
 
-- *Column 4:* Hidden Addition, Destabilizing Rounds, Adrenaline Junkie, Swashbuckler, Feeding Frenzy, Repulsor Brace
+---
+
+- *Column 4:*
+- Hidden Addition
+- Destabilizing Rounds
+- Adrenaline Junkie
+- Swashbuckler
+- Feeding Frenzy
+- Repulsor Brace
 
 ---
 
 ### Cage of Thought *(Ghar’kaan – Void Sniper Rifle)*  
 > *“Hold still. Let your mind betray you.”* —Ghar’kaan
 
+![CageOfThought.png](/assets/CageOfThought.png)
 - **Unique Perk:** *Eye Spy* – Damage increases based on time scoped in on a target before firing (up to x4); 2 precision hits drop void clusters.   
 - **Frame:** Aggressive  
 - **Damage Type:** Void
@@ -690,7 +722,7 @@ While **stationary**, gain increased **Stability** and **Target Acquisition**.
 - *Eye Spy* (*Unique*)
 - Adagio
 - Snapshot Sights
-- *Beserk*
+- *Berserk*
 - Fourth Times The Charm 
 - *First And Foremost*
 - *Payload Loader*
@@ -700,6 +732,7 @@ While **stationary**, gain increased **Stability** and **Target Acquisition**.
 ### Ruinbark *(Harth’noak – Arc Heavy GL, Wave Frame)*  
 > *“Pain leaves behind power. Let it detonate.”*
 
+![Ruinbark.png](/assets/Ruinbark.png)
 - **Unique Perk:** *Grief Burst* – Multikills grant up to x3 charges; hitting tougher enemies triggers jolt and 1 Arc explosion per charge.  
 - **Frame:** Compressed Wave Frame  
 - **Damage Type:** Arc
@@ -711,7 +744,9 @@ While **stationary**, gain increased **Stability** and **Target Acquisition**.
 - Threat Detector
 - Subsistence
 - *Excited Fire*
-- *Beserk*
+- *Berserk*
+
+---
 
 - *Column 4:* 
 - Grief Burst
@@ -720,6 +755,8 @@ While **stationary**, gain increased **Stability** and **Target Acquisition**.
 - Frenzy
 - *Transgression*
 - *Raging Bull*
+
+
 # C.o.T Lore Entries (ordered)
 
 ## If Harth’noak is Spared:
@@ -787,7 +824,7 @@ I was still holding it."
 
 ---
 **Ghar’kaan Lore Entry – “Echoes That Stay”**
-(Harth’noak spared)
+*(Harth’noak spared)*
 *Unlocked if Harth’noak is spared and raid is completed with No Sorrow Spilled.*
 
 > The chamber didn’t fall silent.
@@ -826,7 +863,7 @@ Some choose to stay.
 ## If Harth’noak is slain
 
 **Vanessa Lore Entry – “Held Anyway”**
-(Harth’noak slain)
+*(Harth’noak slain)*
 *Recorded post-raid. Logged by Cross.*
 
 > She didn’t say a word when I gave it to her.
