@@ -13,49 +13,72 @@ A grief-scarred Hive ritual site buried beneath Gliese, haunted by echoes of H.I
 
 ---
 
-### Encounter I – Kiln Auga’thuun: The Silent Foundation
+<details>
+<summary>### Encounter I – Kiln Auga’thuun: The Silent Foundation</summary>
+
 - Empower one rune via Seismic Shards while surviving Oath Pulses.
 - Stand motionless in all three runes during Silent Judgment.
 - Final Stand includes precision-only wipe mechanic.
 - Redemption: Perfect motionless execution removes Kiln’s wipe move.
 
+</details>
+
 ---
 
-### Encounter II – Kapaar: Furnace Trial
+<details>
+<summary>### Encounter II – Kapaar: Furnace Trial</summary>
+
 - Rotate between safe zones to avoid heat stacks.
 - Split team to calibrate vents and deliver thermal charges.
 - Final phase includes rotating Soulfire Spirals and targeted scorch.
 - Redemption: If all heat is managed perfectly, Kapaar disables his flamethrower and fights unarmed.
 
+</details>
+
 ---
 
-### Encounter III – Ghar’kaan: The Crystal-Eyed Watcher
+<details>
+<summary>### Encounter III – Ghar’kaan: The Crystal-Eyed Watcher</summary>
+
 - Cleanse Charmed Guardians using Focus Beads; killing them empowers her.
 - Retrieve correct relic snipers and snipe glyphs in synchronized pairs.
 - Final phase includes Crystal Flash, Soulspotting, and Charm Zones.
 - Redemption: No Mercy Kills + all glyphs synced removes Crystal Flash and replaces with skill-based reflections.
 
+</details>
+
 ---
 
-### Encounter IV – Harth’noak: The Mourning Bomb
+<details>
+<summary>### Encounter IV – Harth’noak: The Mourning Bomb</summary>
+
 - Maintain his emotional Pressure Threshold with Remnants of Calm.
 - Suppress cursed Thralls before detonations.
 - Defusal Runes phase leads to a one-Guardian choice: end his life or offer peace.
 - Redemption: Perform Emote Failsafe if grief surges. If peace is chosen with the Remnant, Harth’noak is saved.
 
+</details>
+
 ---
 
-### Final Encounter – Kezen: The Undermind of Regret
+<details>
+<summary>### Final Encounter – Kezen: The Undermind of Regret</summary>
+
 - Match glyph relics and defeat Shadow of Regret beneath the correct rune in Shadow Realm.
 - Defeat returning H.I.L.T. phantoms in a mirrored battle phase.
 - Reflect Soul Pulses and free Memory-Locked Guardians during collapse.
 - Redemption: At 33% HP, “Let her remember?” appears. Choosing peace and meeting conditions triggers a cinematic resolution and bonus rewards.
 
+</details>
+
 ---
 
 
-
 # Detailed Raid Mechanics
+
+<details>
+<summary>(Click to Expand)</summary>
+
 
 Chamber of Trails – Full Raid Guide (Detailed Version)
 
@@ -591,9 +614,12 @@ Then Kezen collapses, mask breaking fully.
 ### Rewards – Redemption Path
 
 - Standard loot drops immediately upon cinematic ending.
-
+</details>
 
 # H.I.L.T. Legendary Weapon Set  
+<details>
+
+  
 *“Forged in grief. Etched in legacy.”*
 (New season perks are *Italicized*.)
 
@@ -627,6 +653,8 @@ While **stationary**, gain increased **Stability** and **Target Acquisition**.
 - Wellspring
 - Auto-Loading Holster
 - Lead From Gold  
+
+---
 
 - *Column 4:*
 - Scorch Grove
@@ -755,9 +783,11 @@ While **stationary**, gain increased **Stability** and **Target Acquisition**.
 - Frenzy
 - *Transgression*
 - *Raging Bull*
-
+</details>
 
 # C.o.T Lore Entries (ordered)
+
+<details>
 
 ## If Harth’noak is Spared:
 
@@ -1205,13 +1235,8 @@ For once, he chooses silence.
 Not because he is broken—because he remembers.
 
 > [END – GHOST COMMENT LOGGED: “Some things don’t need words.”]
----
-[← Return to Home](./index.md)
 
-
-
-
----
+</details>
 
 ---
 [← Return to Home](./index.md)
