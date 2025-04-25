@@ -6,6 +6,7 @@
 
 ---
 
+![Bravo-group.png](/assets/Bravo-group.png)
 
 Bravo-7 Members
 ---
