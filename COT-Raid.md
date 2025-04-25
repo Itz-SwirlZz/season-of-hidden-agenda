@@ -2,7 +2,7 @@
 ---
 
 **SOHA Navigation:**  
-[🎮 New Gamemodes](SOHA-Season-Activities.md) | [🌿 Verdant Grave](Verdant-Grave-Dungeon) | [📓 Post-Dungeon Lore](VG-Post-Dungeon-Lore) | [💎 VG Exotics](VG-Exotics) | [🏰 C.O.T. Raid](COT-Raid) | [🧬 Raid Exotics](COT-Raid-Exotics)
+[🎮 New Gamemodes](SOHA-Season-Activities.md) | [🌿 Verdant Grave](Verdant-Grave-Dungeon) | [📓 Post-Dungeon Lore](VG-Post-Dungeon-Lore) | [💎 VG Exotics](VG-Exotics) | **🏰 C.O.T. Raid** | [🧬 Raid Exotics](COT-Raid-Exotics)
 
 ---
 
