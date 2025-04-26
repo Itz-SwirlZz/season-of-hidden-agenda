@@ -11,7 +11,7 @@
 
 # Claws of Kezen (Power Grenade Launcher)
 
-*Source: General raid drop, final encounter. 20%.*
+*Source: General raid drop, final encounter, 20%.*
 
 **Intrinsic Trait** – Energy Alchemize: Hold [X] to transmute energy into the weapon. Priority order:
 
@@ -47,7 +47,7 @@ Fails with unique sound if no energy is available.
 
 # Spells of Kezen (Kinetic Auto Rifle)
 
-*Source: Kezen Challenge (Memory Unbroken) 15%.*
+*Source: Complete Kezen Challenge + Unlock Lower Antechamber Lore: "That Place Changed Me". %10>25% drop rate without/with relevant lore entry.*
 
 **Intrinsic Trait** – Triple Threat:
 
@@ -110,7 +110,7 @@ Taken Centurion (takes 3 slots)
 
 # Undermind of Kezen (Warlock Exotic Gauntlets)
 
-*Source: Memory Unbroken (as warlock) + Post-Raid Lore.15%.*
+*Source: Complete Kezen Challenge (Warlock only) + Unlock Ritual Spire Echo: "Ashes Remember". %10>25% drop rate without/with relevant lore entry.*
 
 **Exotic Trait** – Shrieker Nightmares:
 
@@ -143,7 +143,7 @@ Outlined in soft blue; appears as a friendly radar dot.
 
 # Grips of Kezen (Hunter Exotic Gauntlets)
 
-*Source: “Aquire the lore entry: **Glass Sight, Hollow Eyes.**” & Ghar’kaan Challenge (Through Her Eyes) as a hunter. 10%>25% drop rate without/with lore entry.*
+*Source: Complete Ghar’kaan Challenge (Hunter only) + Unlock Crystal Watch Chamber Echo: "Thread Kept". %10>25% drop rate without/with relevant lore entry.*
 
 **Exotic Trait** – Hand of Trades:
 
@@ -213,7 +213,7 @@ Solar Subclass Buffs
 
 # Toxin’s Spist (Titan Exotic Helmet)
 
-*Source: Harth’noak pacifist + Kiln challenge completion as Titan. %10>25% drop rate without/with relevant lore entry.*
+*Source: Complete Kiln Challenge (Titan only) + Unlock Collapsed Runewall Echo: "If the Line Breaks". %10>25% drop rate without/with relevant lore entry.*
 
 Passive Effect – Spist Lab:
 
