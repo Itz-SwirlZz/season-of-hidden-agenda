@@ -11,7 +11,7 @@
 
 # Claws of Kezen (Power Grenade Launcher)
 
-*Source: General raid drop, final encounter*
+*Source: General raid drop, final encounter. 20%.*
 
 **Intrinsic Trait** – Energy Alchemize: Hold [X] to transmute energy into the weapon. Priority order:
 
