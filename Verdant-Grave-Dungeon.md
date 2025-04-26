@@ -2,7 +2,7 @@
 ---
 
 **SOHA Navigation:**  
-[🎮 New Gamemodes](SOHA-Season-Activities.md) | [🌿 Verdant Grave](Verdant-Grave-Dungeon) | [📓 Post-Dungeon Lore](VG-Post-Dungeon-Lore) | [💎 VG Exotics](VG-Exotics) | [🏰 C.O.T. Raid](COT-Raid) | [🧬 Raid Exotics](COT-Raid-Exotics)
+[🎮 New Gamemodes](SOHA-Season-Activities.md) | **🌿 Verdant Grave** | [📓 Post-Dungeon Lore](VG-Post-Dungeon-Lore) | [💎 VG Exotics](VG-Exotics) | [🏰 C.O.T. Raid](COT-Raid) | [🧬 Raid Exotics](COT-Raid-Exotics)
 
 ---
 
@@ -489,16 +489,18 @@ Precision hits extend the reach of your next shot, allowing it to pierce through
 > Vine-Seeker – Final blows against weakened enemies cause your next shot to seek out a new target, curving slightly toward them but deals less damage. Crouching increases the tracking range and grants brief invisibility.
 
 # Armor sets
-![VG Titan.png](/assets/VG Titan.png)
 
 
-![VG Hunter.png](/assets/VG Hunter.png)
+![VG Titan.png](/assets/VG_Titan.png)
 
 
-![VG Warlock.png](/assets/VG Warlock.png)
+![VG Hunter.png](/assets/VG_Hunter.png)
 
 
-![VG warlock bond.png](/assets/VG warlock bond.png)
+![VG Warlock.png](/assets/VG_Warlock.png)
+
+
+![VG warlock bond.png](/assets/VG_warlock_bond.png)
 
 
 
