@@ -343,8 +343,6 @@ Visual hallucinations
 
 Denied revive zones
 
-Final boss phase includes targeted memory-wipe petals (UI interference)
-
 >“Don’t ask why it’s watching. Ask what it saw you do yesterday.”
 —The Bouquet Leader, during second encounter
 
@@ -492,9 +490,17 @@ Precision hits extend the reach of your next shot, allowing it to pierce through
 
 # Armor sets
 ![VG Titan.png](/assets/VG Titan.png)
+
+
 ![VG Hunter.png](/assets/VG Hunter.png)
+
+
 ![VG Warlock.png](/assets/VG Warlock.png)
+
+
 ![VG warlock bond.png](/assets/VG warlock bond.png)
+
+
 
 # Exotic Seedlings (dropped vs. Bloomed)
 
