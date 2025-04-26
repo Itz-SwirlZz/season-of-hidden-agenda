@@ -2,7 +2,7 @@
 ---
 
 **SOHA Navigation:**  
-[🎮 New Gamemodes](SOHA-Season-Activities.md) | [🌿 Verdant Grave](Verdant-Grave-Dungeon) | [📓 Post-Dungeon Lore](VG-Post-Dungeon-Lore) | [💎 VG Exotics](VG-Exotics) | [🏰 C.O.T. Raid](COT-Raid) | [🧬 Raid Exotics](COT-Raid-Exotics)
+[🎮 New Gamemodes](SOHA-Season-Activities.md) | [🌿 Verdant Grave](Verdant-Grave-Dungeon) | [📓 Post-Dungeon Lore](VG-Post-Dungeon-Lore) | [💎 VG Exotics](VG-Exotics) | [🏰 C.O.T. Raid](COT-Raid) | **🧬 Raid Exotics**
 
 ---
 
@@ -11,7 +11,7 @@
 
 # Claws of Kezen (Power Grenade Launcher)
 
-*Source: General raid drop*
+*Source: General raid drop, final encounter*
 
 **Intrinsic Trait** – Energy Alchemize: Hold [X] to transmute energy into the weapon. Priority order:
 
@@ -47,7 +47,7 @@ Fails with unique sound if no energy is available.
 
 # Spells of Kezen (Kinetic Auto Rifle)
 
-*Source: Kezen Challenge (Memory Unbroken)*
+*Source: Kezen Challenge (Memory Unbroken) 15%.*
 
 **Intrinsic Trait** – Triple Threat:
 
@@ -110,7 +110,7 @@ Taken Centurion (takes 3 slots)
 
 # Undermind of Kezen (Warlock Exotic Gauntlets)
 
-*Source: Memory Unbroken + Post-Raid Lore*
+*Source: Memory Unbroken (as warlock) + Post-Raid Lore.15%.*
 
 **Exotic Trait** – Shrieker Nightmares:
 
@@ -143,7 +143,7 @@ Outlined in soft blue; appears as a friendly radar dot.
 
 # Grips of Kezen (Hunter Exotic Gauntlets)
 
-*Source: “Complete the lore entry: **Glass Sight, Hollow Eyes.**” & Ghar’kaan Challenge (Through Her Eyes) as a hunter. 10%>25% drop rate wothout/with lore entry.*
+*Source: “Aquire the lore entry: **Glass Sight, Hollow Eyes.**” & Ghar’kaan Challenge (Through Her Eyes) as a hunter. 10%>25% drop rate without/with lore entry.*
 
 **Exotic Trait** – Hand of Trades:
 
@@ -213,7 +213,7 @@ Solar Subclass Buffs
 
 # Toxin’s Spist (Titan Exotic Helmet)
 
-*Source: Harth’noak pacifist + Kiln challenge completion as Titan. %10>25% drop rate without/with lore entry.*
+*Source: Harth’noak pacifist + Kiln challenge completion as Titan. %10>25% drop rate without/with relevant lore entry.*
 
 Passive Effect – Spist Lab:
 
