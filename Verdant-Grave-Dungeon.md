@@ -60,6 +60,7 @@ A dynamic dungeon where player behavior affects environment, dialogue, loot, and
 
 ## Encounter 1: Heart of the Garden (Puzzle Encounter)
 
+
 **Arena:**  
 A vast broken field, once sacred, now tangled with faded blooms and dormant Offering Seeds. Soft bioluminescent petals scatter the ground, but thorny vines pulse angrily beneath the soil. The deeper your team steps, the more the Garden watches.
 
@@ -73,6 +74,7 @@ Massive Offering Circles shimmer ahead, overgrown with corrupted flora. Pistillu
 
 ### Phase I — Ritual of Awakening
 
+
 - Locate four Offering Seeds around the arena.
 - Approach them slowly — sprinting, sliding, or shooting nearby vines **damages the ritual zone** and triggers Thorn Outbursts.
 - Guardians must **enter the Offering Circle**:
@@ -83,6 +85,7 @@ Massive Offering Circles shimmer ahead, overgrown with corrupted flora. Pistillu
 ---
 
 ### Phase II — Cleansing the Rot
+
 
 - After awakening an Offering Seed, hostile corrupted growths erupt across the field.
 - Guardians must defeat **Corrupted Sporelings** without stray shots hitting nearby active flowers.
@@ -108,6 +111,7 @@ Triggered if:
 ---
 
 ## Encounter 2: The Withering Warden (First Boss Fight)
+
 
 **Boss:**  
 A massive floral beast known as **The Withering Warden**.  
@@ -177,6 +181,8 @@ A blooming mimic entity — **The Echoed Orchid** — pretending to be a part of
 It adapts its appearance and aggression based on how the fireteam behaved through the dungeon so far.
 
 **Arena:**  
+
+
 An abandoned crystalline greenhouse. Mirrored floors reflect the ceiling of flowers, disorienting navigation. Reflection Pools (liquid mirrors) dot the terrain.
 
 **Opening Visual:**  
