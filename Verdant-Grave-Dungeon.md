@@ -9,6 +9,8 @@
 
 # Verdant Grave (Brief)
 <details>
+
+<div markdown="1">
 ---
 
 ## Pistillum's Dungeon – Verdant Grave
@@ -49,11 +51,17 @@ A dynamic dungeon where player behavior affects environment, dialogue, loot, and
 - Friendly fire illusions
 
 - Dungeon rejecting respawns in final phase
+
+</div>
+
 </details>
 
 
 # Verdant Grave (Detailed)
 <details>
+
+<div markdown="1">
+
 # Verdant Grave — Full Dungeon Encounter Overview
 
 ---
@@ -316,7 +324,7 @@ Triggered if:
 
 ---
 
-
+</div>
 
 </details>
 
