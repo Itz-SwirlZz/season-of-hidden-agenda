@@ -77,8 +77,6 @@ A grief-scarred Hive ritual site buried beneath Gliese, haunted by echoes of H.I
 # Detailed Raid Mechanics
 
 <details>
-<summary>(Click to Expand)</summary>
-
 
 Chamber of Trails – Full Raid Guide (Detailed Version)
 
