@@ -310,8 +310,6 @@ Triggered if:
 
 ---
 
-# 🌿 End of Detailed Encounter Overview
-
 
 
 </details>
