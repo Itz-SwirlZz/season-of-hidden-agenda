@@ -8,7 +8,7 @@
 
 
 # Verdant Grave (Brief)
-
+<details>
 ---
 
 ## Pistillum's Dungeon – Verdant Grave
@@ -49,50 +49,272 @@ A dynamic dungeon where player behavior affects environment, dialogue, loot, and
 - Friendly fire illusions
 
 - Dungeon rejecting respawns in final phase
+</details>
+
 
 # Verdant Grave (Detailed)
+<details>
+# Verdant Grave — Full Dungeon Encounter Overview
 
 ---
 
-## Pistillum's Dungeon – Verdant Grave
+## Encounter 1: Heart of the Garden (Puzzle Encounter)
 
- *A living trial where nature remembers what the Traveler forgets.*
+**Arena:**  
+A vast broken field, once sacred, now tangled with faded blooms and dormant Offering Seeds. Soft bioluminescent petals scatter the ground, but thorny vines pulse angrily beneath the soil. The deeper your team steps, the more the Garden watches.
 
+**Opening Visual:**  
+Massive Offering Circles shimmer ahead, overgrown with corrupted flora. Pistillum's presence is felt — a silent, judgmental breath in the wind.
 
----
-
-## Dungeon Overview
-
-Verdant Grave is not just a battleground—it is a test of presence, patience, and respect. Set deep within the heart of the Flower Fields, the dungeon reacts not only to combat but to demeanor. Pistillum watches, but the garden itself remembers.
-
-Every motion, every offering, every reckless blast of Light is recorded in root and bloom. From the first pedal-press to the final echo of your fireteam, the Grave decides what kind of Guardian you are—not by your words, but by your behavior.
-
+**Opening Line (telepathic whisper):**  
+> "You walk among memory. Tread as one who belongs... or be swallowed."
 
 ---
 
-### Persistent System – “The Garden Remembers”
+### Phase I — Ritual of Awakening
 
-Your every action is observed by the biomechanical network beneath the soil and by Pistillum herself. This system doesn’t just record—it responds.
+- Locate four Offering Seeds around the arena.
+- Approach them slowly — sprinting, sliding, or shooting nearby vines **damages the ritual zone** and triggers Thorn Outbursts.
+- Guardians must **enter the Offering Circle**:
+  - Stand completely still for 10 seconds, OR
+  - Emote within the circle, OR
+  - Deposit ambient Light motes dropped from ambient floral enemies.
 
-Behavior-Based Titles:
+---
 
-**Warden of Renewal**
-Gentle. Respectful. Performs all rituals with precision. Does not disturb offering zones.
-Effects: Garden provides buffs, alternate dialogue, and the best loot tier.
+### Phase II — Cleansing the Rot
 
-**The Wanderer’s Bloom**
-Balanced. Interacts with offerings, but may kill unnecessarily or rush rituals.
-Effects: Standard mechanics and loot. NPCs give neutral dialogue.
+- After awakening an Offering Seed, hostile corrupted growths erupt across the field.
+- Guardians must defeat **Corrupted Sporelings** without stray shots hitting nearby active flowers.
+- Friendly flora will bloom if players succeed — providing overshields, healing pools, or safe zones.
 
-**The Thorn-Handled**
-Aggressive. Breaks offerings, skips rituals, causes minor collateral damage.
-Effects: Trap-heavy encounters. Buffs are stripped. Loot is lower-tier or partially cursed.
+---
 
-**Rootless One**
-Repeated violator. Ignores offerings, mocks rituals, triggers environmental aggression.
-Effects: Dungeon actively punishes the fireteam. Exotic drops are locked. Nature lashes out.
+**Behavioral Modifiers:**
+- **Warden:** Flowers bloom faster; less Sporeling waves.
+- **Wanderer:** Standard mechanics.
+- **Thorn-Handled:** Thorn Traps spawn near Offering Circles.
+- **Rootless:** Environmental backlash — aggressive vines lash nearby Guardians every 30 seconds.
+
+---
+
+**Failure / Wipe Mechanic:**  
+> "The Grave rejects impatience."
+
+Triggered if:
+- Three Offering Seeds are corrupted by stray damage or failed rituals.
+- Players attempt to damage the Offering Seeds.
+
+---
+
+## Encounter 2: The Withering Warden (First Boss Fight)
+
+**Boss:**  
+A massive floral beast known as **The Withering Warden**.  
+Once a proud protector of the Verdant Grave, now twisted by sorrow, rot, and isolation. Pistillum will not destroy him — Guardians must bear that burden.
+
+**Arena:**  
+A wide circular depression choked with massive broken roots and gnarled, weeping vines. Dead flowers crackle underfoot. At the center, the Warden slumbers — massive, thorn-crowned, and leaking blackened sap.
+
+**Opening Cinematic Moment:**  
+As the fireteam approaches, the Warden rises slowly. His massive head — crowned in wilted petals — tilts sideways, eyes glowing faint blue.
+
+**Opening Line (Pistillum's whisper):**  
+> "He could not leave the Garden. He could not heal himself.  
+> Will you sever him... or join him?"
+
+---
+
+### Phase I — Bloom of Sorrow
+
+- Roots pulse with corrupt energy across the arena.
+- Guardians must **enter ritual circles** near each root and perform Light-based actions:
+  - Stand without firing for 10 seconds
+  - Emote in the circle
+  - Deposit ambient motes
+- Each successful ritual **stuns** the Warden briefly and weakens his armor.
+
+---
+
+### Phase II — Thorn Harvest
+
+- The Warden enrages and slams the ground, releasing fields of **thorn mines**.
+- Safe Zones briefly open — Guardians must rotate correctly to avoid Thorn Bursts every 30 seconds.
+- The Warden uses vine lash attacks that knock players into thorn fields if spacing isn't managed.
+
+---
+
+### Phase III — Severance Strike
+
+- After weakening the Warden, he becomes vulnerable.
+- **Only charged Light-melee attacks (finishers, charged melees) can deal damage.**
+- Using Supers, heavy weapons, or explosive abilities enrages him:
+  - He triggers Thorn Storms across the arena
+  - He regenerates armor.
+
+---
+
+**Behavioral Modifiers:**
+- **Warden:** Shorter ritual charge times, easier thorn spacing.
+- **Wanderer:** Standard mechanics.
+- **Thorn-Handled / Rootless:** Thorns regenerate near players. Arena collapses faster if not rotated properly.
+
+---
+
+**Failure / Wipe Mechanic:**  
+> "The Withering Warden’s grief consumed you."
+
+Triggered if:
+- Players fail to complete ritual phases fast enough.
+- Players use forbidden damage types during Severance Phase.
+
+---
+
+## Encounter 3: The Echoed Orchid (Puzzle-Boss Hybrid)
+
+**Boss:**  
+A blooming mimic entity — **The Echoed Orchid** — pretending to be a part of the Grave.  
+It adapts its appearance and aggression based on how the fireteam behaved through the dungeon so far.
+
+**Arena:**  
+An abandoned crystalline greenhouse. Mirrored floors reflect the ceiling of flowers, disorienting navigation. Reflection Pools (liquid mirrors) dot the terrain.
+
+**Opening Visual:**  
+A massive, alluring flower unfurls gently before the players, releasing a soft, hypnotic glow.
+
+**Behavioral Intro Dialogue:**
+- **Warden:**  
+> "A blossom... awaits your hand."
+- **Wanderer:**  
+> "A mirror... reflecting your choices."
+- **Thorn-Handled / Rootless:**  
+> "A trap... for those who disrespect the soil."
+
+---
+
+### Phase I — Reflection Test
+
+- Four Offering Seeds materialize.
+- **One seed is a mimic.**
+- Guardians must:
+  - Watch reflection patterns on the floor.
+  - Correctly activate real Seeds without damaging mirrors.
+- Shooting the mimic by mistake empowers the Echoed Orchid.
+
+---
+
+### Phase II — Shifting Bloom Battle
+
+- Echoed Orchid splits into **Hollow Reflections** — spectral doubles of the fireteam.
+- Hollow Reflections mimic player powers and movements:
+  - Titans get charged at.
+  - Warlocks get rift-denied.
+  - Hunters get flanked.
+
+- Players must step into Reflection Pools to reveal real enemies and weaken Reflections.
+
+---
+
+### Phase III — Orchid’s Last Bloom
+
+- Summons Root-Chained Champions — mini-bosses tethered to vines.
+- Guardians must break vine tethers in correct sequence based on glyph blooms shown near roots.
+
+---
+
+**Behavioral Modifiers:**
+- **Warden:** Longer Reflection Pool duration, fewer Hollow Reflections.
+- **Wanderer:** Standard challenge.
+- **Thorn-Handled / Rootless:** Shorter Reflection Pool life, empowered Hollow Reflections.
+
+---
+
+**Failure / Wipe Mechanic:**  
+> "You were swallowed by your own echoes."
+
+Triggered if:
+- Players attack wrong Offering Seeds.
+- Hollow Reflections overrun the arena.
+
+---
+
+## Final Encounter: Pistillum’s Gravewatch Judgment (Final Ritual Boss)
+
+**Boss:**  
+No true enemy — instead, players must survive the Grave’s memory of their own actions.
+
+**Arena:**  
+A massive spiral garden centered on the Tree of Bloom, with radiant petals rising and falling like tides. Pistillum floats silently near the Tree — judging.
+
+**Opening Visual:**  
+The Tree of Bloom pulses once as the fireteam steps forward. Petals flutter around Pistillum — not as weapons, but as watchers.
+
+**Opening Line (Pistillum):**  
+> "You left your roots in every step.  
+> Now... will you be pruned, or will you bloom?"
+
+---
+
+### Phase I — Trial of the Offering
+
+- Three Offering Seeds spawn around the arena.
+- Players must:
+  - Reach each seed.
+  - Stand in ritual pose without weapons drawn.
+  - Defend against bursts of aggressive flora.
+
+**Behavior-Based Modifiers:**
+- **Warden:** Rituals are straightforward.
+- **Wanderer:** Minor thorn traps.
+- **Thorn-Handled / Rootless:** Aggressive flora and moving hazard zones.
+
+---
+
+### Phase II — Grave’s Reflection
+
+- Echoed forms of prior bosses (The Warden, The Orchid) appear.
+- Shades are projections — not real enemies, but persistent attackers.
+
+- Players must:
+  - Survive without destroying Offering Seeds.
+  - Dodge/reflect incoming Shade attacks into environmental traps.
+
+---
+
+### Phase III — Ritual of Reclamation
+
+- Arena collapses into soul-bloom storms:
+  - Collapsing petals.
+  - Thorns erupting from safe zones.
+  - Randomized bomb attacks based on past behavioral rank.
+
+- A final Seed appears:
+  - If players perform the ritual flawlessly (no weapons fired, all interactions perfect), even **Rootless Ones** can redeem themselves.
+
+---
+
+**Behavioral Outcomes:**
+- **Warden:** Garden blooms in celebration.
+- **Wanderer:** Garden breathes steadily.
+- **Thorn-Handled:** Garden hesitates.
+- **Rootless:** Garden recoils — but redemption is possible through the final Seed.
+
+---
+
+**Failure / Wipe Mechanic:**  
+> "The garden does not forget."
+
+Triggered if:
+- Players attack Offering Seeds.
+- Players fail final ritual survival phases.
+
+---
+
+# 🌿 End of Detailed Encounter Overview
 
 
+
+</details>
 
 ---
 
