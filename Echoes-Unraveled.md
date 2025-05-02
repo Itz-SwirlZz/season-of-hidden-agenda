@@ -53,6 +53,82 @@ Had they spoken Ghar’kaan’s name during their last incursion, the crown woul
 #### *Echo Entry – "The Broken Wall Protocol"*  
 If Harth’noak is killed, Kiln removes his helmet. His silence breaks, and his control fails. What follows is not rage—it’s inevitability. He activates the Broken Wall Protocol, and the Chamber of Scars is born.
 
+### *Echo Entry – "Without the Flame, There’s Still Smoke"*
+**Characters:** Kiln Auga’thuun & Kapaar  
+**Placement:** Echoes Unraveled (Kiln’s Section)
+
+---
+
+#### *Timeline Continuation: Days after “Cracks That Don’t Heal, But Hold”*
+
+The chamber was empty. Not a mission. No fire. No crowd.
+
+Just Kiln, seated on a stone bench, running a whetstone across his axe—slow, steady.
+
+Kapaar stood at the entrance.
+
+No words yet.  
+For once, he didn’t storm in. Didn’t explode with apologies or quips.
+
+He walked forward and stopped exactly six paces away.
+
+Kiln didn’t look up.  
+Didn’t stop sharpening.  
+Didn’t move.
+
+That was fine.
+
+Kapaar exhaled slowly. His voice shook, but not from anger.
+
+> “When I yell, I’m still listening.  
+> When I burn, I still care.  
+> But when I said *that*, I wasn’t doing either.  
+>  
+> I didn’t mean to hurt you.  
+> But I did.”
+
+Still no response.
+
+So Kapaar did the only thing that *meant* something.  
+The one thing **Kiln always understood.**
+
+He reached up, unclipped his own helmet, and removed it.  
+Slowly. Gently.  
+Then held it at his side—exposed, vulnerable.
+
+Not to challenge.  
+Not to beg.  
+Just… to *mean it.*
+
+Kiln stopped sharpening.
+
+Still didn’t look up. But his hand gripped the axe a little tighter—then eased.  
+Not with tension.  
+With understanding.
+
+Kapaar stepped forward.  
+Set the helmet down between them on the bench.  
+Then sat beside it—quiet, almost reverent.
+
+> “I don’t know how you do it,” he said finally. “But I’ll learn.  
+>  
+> I just… I hope you’ll still be around if I do.”
+
+Kiln didn’t reply.
+
+But when they left that chamber later, **Kapaar’s helmet stayed behind.**  
+And no one—not Kezen, not Harlo, not even Vanessa—ever saw him wear it again unless it was for battle.
+
+Because respect doesn’t need armor.  
+Only intention.
+
+---
+
+**Echo Effect:**  
+If this moment is witnessed, Kapaar and Kiln unlock a new tandem passive:  
+**Discipline + Detonation** – When one lands a finishing blow, the other gains damage resistance and cooldown reduction for 4 seconds. The bond, once cracked, is reforged stronger.
+
+
 </details>
 
 <details>
