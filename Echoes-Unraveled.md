@@ -205,10 +205,6 @@ Only intention.
 
 ---
 
-**Echo Effect:**  
-If this sequence is witnessed, Kapaar and Kiln unlock a new tandem passive:  
-**Discipline + Detonation** – When one lands a finishing blow, the other gains damage resistance and cooldown reduction for 4 seconds. The bond, once cracked, is reforged stronger.
-
 </details>
 
 <details>
@@ -216,6 +212,95 @@ If this sequence is witnessed, Kapaar and Kiln unlock a new tandem passive:
 
 #### *Echo Entry – "Disobedience: Full Break Path"*  
 If Ghar’kaan is forced to choose between Harth’noak and Kezen, and she chooses the former, her sniper becomes more than a tool—it becomes a statement. One shot. One fracture. H.I.L.T. splinters.
+
+## Echo Sequence – Kiln & Ghar’kaan: “The Stillness That Watched”
+**Placement:** Ghar’kaan’s Echoes  
+**Characters:** Ghar’kaan & Kiln Auga’thuun
+
+---
+
+### Part I: “Specter of the Mask”
+
+The mask still sat where they’d left it.  
+Untouched. Undisturbed. Just watching.
+
+Kiln arrived first. His presence was a monument—still, grounded.
+
+When Ghar’kaan entered, she didn’t announce herself. She walked until she stood before the mask and knelt—not reverent, just... tethered.
+
+> “She used to say I had too much blade in my voice,” she said aloud.
+
+Kiln, behind her, replied softly:  
+> **“But blades can be honed. Poison only spreads.”**
+
+She flinched—not from the words, but from the fact that he chose to speak.
+
+> “She had poison?” Ghar’kaan asked.
+
+> **“She had conviction,” Kiln answered. “But it outpaced her healing.”**
+
+Silence.
+
+Ghar’kaan finally muttered,  
+> “I listened anyway.”
+
+Kiln raised his left gauntlet to his right temple.  
+*“I forgive.”*
+
+Ghar’kaan tensed again.
+
+> “…That’s not yours to give.”
+
+> **“It isn’t,” Kiln replied. “But I carried it anyway.”**
+
+---
+
+### Part II: “The Mask Without Eyes”
+
+They stayed there—her sitting, him standing, the mask between them like a shared ghost.
+
+Ghar’kaan’s hand hovered over the mask but didn’t touch it.
+
+> “She’s not in there,” she whispered. “But I still see her.”
+
+Kiln stepped forward. Aligned his visor with the mask.
+
+*The Mirror Bow.*
+
+> **“She lives in what you didn’t say,”** he told her.  
+> **“And what you regret.”**
+
+> “Then she’s still angry.”
+
+> **“No,” Kiln said. “She just never saw how much of her was in you.”**
+
+Ghar’kaan’s breath hitched.
+
+> “She gave me a second chance. I don’t know if I earned it.”
+
+> **“She didn’t give it because you earned it,” Kiln replied.  
+“She gave it because she *believed* you could.”**
+
+---
+
+### Part III: “She Left Her Eyes in Us”
+
+They sat in the quiet together.
+
+When Ghar’kaan finally stood, Kiln turned to leave.
+
+At the chamber’s edge, he paused.
+
+> **“I can carry weight,”** he said over his shoulder.  
+> **“But not alone. Not forever.”**
+
+Then he placed his right hand to his left temple.  
+*“I remember.”*
+
+This time, Ghar’kaan mirrored the gesture.  
+And her fingers didn’t shake.
+
+---
 
 </details>
 
