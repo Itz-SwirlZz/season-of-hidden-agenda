@@ -310,6 +310,49 @@ And her fingers didn’t shake.
 #### *Echo Entry – "Unspoken Contingency"*  
 She knew Kiln might fracture. She wrote the seal, forged the plan. But if she had revealed it to him, would he have resisted the fall? Or would knowing he had a failsafe have broken him faster?
 
+## Echo Entry – “The Key With a Beating Heart”
+**Placement:** Kezen’s Echoes  
+**Focus:** What-if Contingency | Harth’noak & Kiln Auga’thuun
+
+---
+
+I made a seal for Kapaar—to stop the fire from consuming others.  
+I made a seal for Ghar’kaan—to slow the mind from turning against itself.  
+I made one for myself—to ensure no Guardian would ever worship my grief.
+
+But not Kiln.  
+Never Kiln.
+
+His strength wasn’t physical. It was moral. Internal.  
+And if I’d given him a seal, it would’ve meant I doubted it.  
+So I gave him nothing.
+
+Instead… I gave the world **Harth’noak**.
+
+A quiet failsafe.  
+Not to fight Kiln—*not directly.*  
+But to **detonate** with enough grief and force to stop him cold, if the Knight ever fell beyond recall.  
+Not kill. **Halt.**
+
+But grief spreads like blood.  
+So I bound the explosion in a seal—designed only to break if I released it.
+
+> *“If Kiln fractures,” I wrote,  
+> “let sorrow strike first—but let it strike only him.”*
+
+If **Harth dies**, and the seal was *never lifted*…  
+That means someone else did it.  
+That means they *threw away the key.*
+
+That means we chose to face Kiln’s full descent without preparation.
+
+And that is a future I cannot save them from.
+
+---
+
+*They’ll never know how much I trusted Kiln.*  
+*Not until they break the one thing I built to stop him.*
+
 </details>
 
 <details>
