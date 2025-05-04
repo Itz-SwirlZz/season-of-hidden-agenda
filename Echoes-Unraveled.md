@@ -195,6 +195,12 @@ Had they spoken Ghar’kaan’s name during their last incursion, the crown woul
 
 </details>
 
+<details>
+<summary>**Nötivart**</summary>
+
+
+</details>
+
 ---
 
 ### **H.I.L.T.**
@@ -640,8 +646,120 @@ And that is a future I cannot save them from.
 <details>
 <summary>**Harth’noak**</summary>
 
-#### *Echo Entry – "If They Pulled the Trigger"*  
-A Guardian makes the wrong call and shoots the core instead of offering the Remnant. Harth erupts. The emotional bomb goes off—not in hate, but in heartbreak. The only ones left standing are those who never doubted him.
+# Echo Entry – “Name Without Meaning”
+*He was called Harth’noak. But he never chose that name. In the silence between orders, he wondered if he was ever meant to choose anything at all.*
+
+## Echo Sequence – Harth’noak & Ghar’kaan: “The Word Behind the Growl”  
+**Placement:** Harth’noak’s Echoes  
+**Characters:** Harth’noak, Ghar’kaan  
+**Location:** A cracked temple deep within Gliese’s Pale Rift  
+
+---
+
+### Part I: “The Unspoken Cage”
+
+The temple’s bones had long since caved in.  
+Harth’noak sat in the rubble, fingers dragging ancient ash into spirals—slow and repetitive.
+
+Ghar’kaan approached cautiously, sniper slung but not loaded.
+
+> “You always come here,” she said.  
+> “Even when we’re not posted nearby.”
+
+Harth tilted his head—light flickering in his hollow eyes.
+
+She knelt beside him, watching the ash patterns.
+
+> “What are you drawing?”
+
+No answer.
+
+So she tried a different question.
+
+> “Do you know what your name means?”
+
+He stilled.
+
+> “Kezen never explained it to me,” she admitted.  
+> “But I looked up what I could.”
+
+She whispered the Hive root-phrases.  
+His glow flared, then dimmed.
+
+> “*‘Servant of Harmonic Collapse.’*”
+
+Harth brushed away the ash spiral. Slowly. Like it stung.
+
+---
+
+### Part II: “The Rumble That Refused”
+
+They walked together along the broken sanctuary path.
+
+Ghar’kaan didn’t speak. Neither did Harth.
+
+But his body trembled—not from instability… from **tension** he could never verbalize.
+
+She finally stopped.
+
+> “You were made into this. But that doesn’t mean it’s all you are.”
+
+Harth didn’t turn.  
+But his hand rose to his chest—his glowing palm hovering where a heart might’ve once been.
+
+He began to scratch.
+
+Not a gesture. Not a sign. A word.
+
+Crude. Ugly. Misspelled.
+
+But a word.
+
+> “NOAK”
+
+Ghar’kaan blinked.
+
+> “…Your name?”
+
+He nodded once.
+
+Then scratched again—this time on the crumbling stone wall.
+
+One more word.
+
+> “MINE.”
+
+---
+
+### Part III: “The Name He Buried”
+
+They returned to the camp. No one noticed the new scarring on his armor.
+
+Except Kezen.
+
+She paused. Walked beside him. Looked at the marks.
+
+She didn’t speak.
+
+But she raised her hand—not to erase, not to command.
+
+Just to place it gently on his shoulder.
+
+> “If you ever want to change it,” she said,  
+> “You won’t lose us.”
+
+Harth stood still. Runes flickering in quiet contemplation.
+
+But later that night, he returned to the temple alone.
+
+And beneath the ash spiral, he scratched three words into the altar stone.
+
+> “NOAK  
+> WAS  
+> HERE.”
+
+And for the first time in his long, cursed life—  
+He smiled.
 
 </details>
 
