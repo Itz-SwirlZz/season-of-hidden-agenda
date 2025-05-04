@@ -360,6 +360,13 @@ Only intention.
 </details>
 
 <details>
+<summary>**Kapaar**</summary>
+
+
+
+</details>
+
+<details>
 <summary>**Ghar’kaan**</summary>
 
 #### *Echo Entry – "Disobedience: Full Break Path"*  
