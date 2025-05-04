@@ -362,7 +362,130 @@ Only intention.
 <details>
 <summary>**Kapaar**</summary>
 
+# Echo Entry – "Incineration Point: Let Me Be Loud"
+*If Kapaar wasn’t soothed—if no hand steadied him, no voice met him where he boiled—then fire would stop asking for space and start taking it. This is not vengeance. It’s permission denied.*
 
+## Echo Sequence – Kiln, Harlo & Kezen: “When the Burn Spoke Back”
+**Placement:** Kapaar’s Echoes  
+**Characters:** Kapaar, Kiln Auga’thuun, Harlo-9, Kezen (off-screen voice)
+
+---
+
+### Part I: “That’s Not My Voice Anymore”
+
+The mission was simple.  
+Routine sweep. Overgrown ridge. One signal missing.
+
+But when Harlo and Kiln returned, **Kapaar was already screaming.**
+
+Not words. Not yet.  
+Just *volume*.  
+Not rage. Not chaos. Just—**pressure finally unlatched.**
+
+His helmet was still on. Gospel was in both hands. The air stank of melted resin and cauterized bark.
+
+> “DON’T TELL ME TO STAND DOWN!”
+
+Harlo stepped forward.  
+Kapaar spun. Gospel primed.
+
+> “You *left me out there,* Harlo. You knew I was cracking.”
+
+> “We didn’t know—”
+
+> “NO! You *didn’t want to.* You saw the heat and closed the door!”
+
+The blast behind him wasn’t aimed—but it still **ignited the canopy.**
+
+Kiln stood perfectly still, axe slung. Not moving yet. But not walking away either.
+
+> **“Your flame is too loud to guide if you blind yourself in it,”** Kiln offered.
+
+Kapaar barked a dry laugh.
+
+> “Says the Knight who speaks in puzzles and leaves *burnouts* like me behind while he does his *thinking.*”
+
+> “I wasn’t trying to silence you.”
+
+> “YOU DON’T HAVE TO. EVERYONE ELSE DID IT FOR YOU.”
+
+---
+
+### Part II: “Echo of the Charred Room”
+
+Kezen’s voice broke in over the comms. Calm. Distant. Strategic.
+
+> **“Kapaar. Withdraw from your current position. You’re not stable.”**
+
+> “I KNOW.”
+
+He ripped his helmet off.  
+Not like a ritual.  
+Like a ***shackle.***
+
+Ash spilled down his chestplate. Gospel’s fuel line twisted like it was *breathing.*
+
+> “You always wanted Kiln to control us.  
+To *refine* us.  
+Well guess what…”
+
+He slammed Gospel into the ground. It hissed.
+
+> “I’m not a candle.  
+I’m the forest fire you all forgot to warn the next squad about.”
+
+Harlo stepped in front of Kiln.
+
+> “Please… I *hear* you. Just—”
+
+> “No you don’t.”
+
+Kapaar raised Gospel again.  
+Not to fire.  
+To **hold it like a spine.**
+
+> “You *never did.*”
+
+---
+
+### Part III: “It Didn’t Matter That They Survived”
+
+The burst happened without a shot.  
+No one remembers the trigger.
+
+Only the heat.
+
+Kezen’s wards held. Just barely.  
+But the ridge was leveled.  
+The trees? Gone.  
+The outpost equipment? Melted into something *that would never hold memory again.*
+
+Kapaar stood at the center.  
+Helmet cracked. Gospel half empty. Shoulders steaming.
+
+Kiln approached.  
+Didn’t raise a weapon.
+
+> **“Is this you?”**
+
+Kapaar didn’t answer.
+
+> **“Or is this the silence we built around you finally speaking?”**
+
+Kapaar holstered Gospel.
+
+> “Does it matter?” he muttered.  
+> “You’ll all remember the heat, not the scream that came first.”
+
+He walked away.  
+Didn’t look back.  
+Didn’t *need* to.
+
+---
+
+> *They said he went rogue.*  
+> *He didn’t.*  
+> *He just stopped asking for room to burn.*
 
 </details>
 
