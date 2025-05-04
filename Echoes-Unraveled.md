@@ -21,6 +21,158 @@ In a divergent path where Vanessa fails to protect Suzie during a secondary incu
 #### *Echo Entry – "The Gambler’s Grief"*  
 If Vega pushes too far during a covert mission and sacrifices his Ghost for the objective, it permanently disables his subclass connection. He still rolls dice, but only to feel something.
 
+# Vega’s Echo – Unraveled  
+**Location:** Verdant Grave – “Spider’s Niche Ruins”  
+**Classification:** Personal Memory Log [Encrypted: V.R. Access Only]  
+**Subject:** V.N.W. Incident // Final Engagement
+
+---
+
+## “The Bloom That Chose to Wilt”  
+
+The scrolls hit the floor.  
+The silence before them felt like reverence.
+
+Then the world dropped with them.
+
+Threadlings *burst outward,* clawing through the soil like memory made teeth—  
+one caught Vega’s ankle mid-stride.
+
+He shot it point-blank. Ash.
+
+> “You’re better than this, ‘Nessa…”
+
+Vanessa’s voice came from everywhere.  
+Five overlapping tones—each one hers, none of them home:
+
+> “I’m *free* now.”
+
+---
+
+### Combat Sequence: Memory vs. Mercy
+
+Vega slid. Pulse rifle up.  
+Vanessa was already mid-air, flipping—threadlings *whipping* her like puppeteer strings.
+
+**Fire. Spin. Deflect.**  
+Her shield of thread caught the burst and bent it into smoke.
+
+They clashed.
+
+**Hand to hand.**  
+Flesh and thread.  
+Love turned to reflex.
+
+- Vega blocked a rising knee.  
+- Vanessa caught his forearm and wrapped it in burning thread.  
+- He slammed her shoulder and disengaged—rolled clean.
+
+> “You’re not fighting to win,” Vega gasped.  
+> “You’re fighting to be *remembered.*”
+
+Vanessa grinned.  
+Her eyes still **bright blue.** But the flicker had begun.
+
+> “Then remember *this.*”
+
+She lunged.  
+He countered.  
+Grapple. Elbow. Slam. Break.
+
+Her movement was feral—like grief made ferocious.
+
+He dropped the rifle.  
+Switched stance.  
+**Elbow. Knee. Palm. Flow.**
+
+Every hit struck.  
+Every strike echoed *who they used to be.*
+
+---
+
+### Emotional Shift: The Fracture Point
+
+She took the blows.  
+Not because they didn’t hurt—  
+but because they *meant something.*
+
+> “You taught me rhythm,” she whispered.  
+> “But I learned how to break it.”
+
+She kicked the rifle toward him.  
+When he reached—  
+a threadling burst from the barrel.
+
+He flinched.  
+She vanished.  
+Then—**was behind him.**
+
+Fist cocked.
+
+**He didn’t dodge.**
+
+The punch landed.  
+He didn’t fall.  
+He just looked at her—with tears behind his visor.
+
+> “I never saw you as broken,” he said.  
+> “I just wanted to carry you out of whatever you were drowning in.”
+
+Her eyes burned **red.**  
+Then cracked.  
+**Violet.**
+
+Then **blue.**
+
+She trembled.
+
+> “You were never supposed to cry,” she whispered.
+
+> “Neither were you.”
+
+---
+
+### The End
+
+The threadlings fell limp.  
+Her hands opened.  
+Her knees buckled.
+
+Vega approached.
+
+She didn’t resist.
+
+He took her scroll in one hand.  
+Her trembling fingers in the other.
+
+> “Do it,” she said. “Before I become worse.”
+
+He looked into her eyes one last time.  
+**Blue.**
+
+Still hers.
+
+He placed a shot through the scroll’s core.
+
+It cracked.
+
+No Light.
+
+Just collapse.
+
+---
+
+> *She died in his arms.  
+>  
+> And her eyes—blue to the end—shattered him more than her silence ever could.*  
+
+---
+
+**[LOCKED ENTRY ENDS]**  
+Filed under: *Vega’s Echo – Unraveled*  
+Compiled by: Zakk R., under permission of Cross  
+Encrypted for archive under: *The Red Bloom Protocol*
+
 </details>
 
 ---
