@@ -15,7 +15,7 @@ A grief-scarred Hive ritual site buried beneath Gliese, haunted by echoes of H.I
 
 <details>
 
-<summary>**### Encounter I – Kiln Auga’thuun: The Silent Foundation**</summary>
+<summary>Encounter I – Kiln Auga’thuun: The Silent Foundation</summary>
 
 - Empower one rune via Seismic Shards while surviving Oath Pulses.
 - Stand motionless in all three runes during Silent Judgment.
@@ -28,7 +28,7 @@ A grief-scarred Hive ritual site buried beneath Gliese, haunted by echoes of H.I
 
 <details>
 
-<summary>**### Encounter II – Kapaar: Furnace Trial**</summary>
+<summary>Encounter II – Kapaar: Furnace Trial</summary>
 
 - Rotate between safe zones to avoid heat stacks.
 - Split team to calibrate vents and deliver thermal charges.
@@ -41,7 +41,7 @@ A grief-scarred Hive ritual site buried beneath Gliese, haunted by echoes of H.I
 
 <details>
 
-<summary>**### Encounter III – Ghar’kaan: The Crystal-Eyed Watcher**</summary>
+<summary>Encounter III – Ghar’kaan: The Crystal-Eyed Watcher</summary>
 
 - Cleanse Charmed Guardians using Focus Beads; killing them empowers her.
 - Retrieve correct relic snipers and snipe glyphs in synchronized pairs.
@@ -54,7 +54,7 @@ A grief-scarred Hive ritual site buried beneath Gliese, haunted by echoes of H.I
 
 <details>
 
-<summary>**### Encounter IV – Harth’noak: The Mourning Bomb**</summary>
+<summary>Encounter IV – Harth’noak: The Mourning Bomb</summary>
 
 - Maintain his emotional Pressure Threshold with Remnants of Calm.
 - Suppress cursed Thralls before detonations.
@@ -67,7 +67,7 @@ A grief-scarred Hive ritual site buried beneath Gliese, haunted by echoes of H.I
 
 <details>
 
-<summary>**### Final Encounter – Kezen: The Undermind of Regret**</summary>
+<summary>Final Encounter – Kezen: The Undermind of Regret</summary>
 
 - Match glyph relics and defeat Shadow of Regret beneath the correct rune in Shadow Realm.
 - Defeat returning H.I.L.T. phantoms in a mirrored battle phase.
