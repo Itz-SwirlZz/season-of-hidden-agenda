@@ -83,14 +83,6 @@ A grief-scarred Hive ritual site buried beneath Gliese, haunted by echoes of H.I
 
 <details>
 
-> [!INFO]
-> **Bold** text, *italic* text, and even line breaks  
-> will render properly inside this block—  
-> useful for when formatting fails in raw `<details>` or `<summary>` elements.
->
-> Use these inside collapsible sections, echo logs, codex entries, and bios  
-> to maintain consistent Markdown behavior across GitHub’s site and apps.
-
 Chamber of Trails – Full Raid Guide (Detailed Version)
 
 Overview
@@ -631,13 +623,6 @@ Then Kezen collapses, mask breaking fully.
 
 <details>
 
-> [!INFO]
-> **Bold** text, *italic* text, and even line breaks  
-> will render properly inside this block—  
-> useful for when formatting fails in raw `<details>` or `<summary>` elements.
->
-> Use these inside collapsible sections, echo logs, codex entries, and bios  
-> to maintain consistent Markdown behavior across GitHub’s site and apps.
   
 *“Forged in grief. Etched in legacy.”*
 (New season perks are *Italicized*.)
