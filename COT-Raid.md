@@ -14,6 +14,7 @@ A grief-scarred Hive ritual site buried beneath Gliese, haunted by echoes of H.I
 ---
 
 <details>
+
 <summary>**### Encounter I – Kiln Auga’thuun: The Silent Foundation**</summary>
 
 - Empower one rune via Seismic Shards while surviving Oath Pulses.
@@ -26,6 +27,7 @@ A grief-scarred Hive ritual site buried beneath Gliese, haunted by echoes of H.I
 ---
 
 <details>
+
 <summary>**### Encounter II – Kapaar: Furnace Trial**</summary>
 
 - Rotate between safe zones to avoid heat stacks.
@@ -38,6 +40,7 @@ A grief-scarred Hive ritual site buried beneath Gliese, haunted by echoes of H.I
 ---
 
 <details>
+
 <summary>**### Encounter III – Ghar’kaan: The Crystal-Eyed Watcher**</summary>
 
 - Cleanse Charmed Guardians using Focus Beads; killing them empowers her.
@@ -50,6 +53,7 @@ A grief-scarred Hive ritual site buried beneath Gliese, haunted by echoes of H.I
 ---
 
 <details>
+
 <summary>**### Encounter IV – Harth’noak: The Mourning Bomb**</summary>
 
 - Maintain his emotional Pressure Threshold with Remnants of Calm.
@@ -62,6 +66,7 @@ A grief-scarred Hive ritual site buried beneath Gliese, haunted by echoes of H.I
 ---
 
 <details>
+
 <summary>**### Final Encounter – Kezen: The Undermind of Regret**</summary>
 
 - Match glyph relics and defeat Shadow of Regret beneath the correct rune in Shadow Realm.
@@ -77,6 +82,14 @@ A grief-scarred Hive ritual site buried beneath Gliese, haunted by echoes of H.I
 # Detailed Raid Mechanics
 
 <details>
+
+> [!INFO]
+> **Bold** text, *italic* text, and even line breaks  
+> will render properly inside this block—  
+> useful for when formatting fails in raw `<details>` or `<summary>` elements.
+>
+> Use these inside collapsible sections, echo logs, codex entries, and bios  
+> to maintain consistent Markdown behavior across GitHub’s site and apps.
 
 Chamber of Trails – Full Raid Guide (Detailed Version)
 
@@ -615,8 +628,16 @@ Then Kezen collapses, mask breaking fully.
 </details>
 
 # H.I.L.T. Legendary Weapon Set  
+
 <details>
 
+> [!INFO]
+> **Bold** text, *italic* text, and even line breaks  
+> will render properly inside this block—  
+> useful for when formatting fails in raw `<details>` or `<summary>` elements.
+>
+> Use these inside collapsible sections, echo logs, codex entries, and bios  
+> to maintain consistent Markdown behavior across GitHub’s site and apps.
   
 *“Forged in grief. Etched in legacy.”*
 (New season perks are *Italicized*.)
@@ -786,6 +807,14 @@ While **stationary**, gain increased **Stability** and **Target Acquisition**.
 # C.o.T Lore Entries (ordered)
 
 <details>
+
+> [!INFO]
+> **Bold** text, *italic* text, and even line breaks  
+> will render properly inside this block—  
+> useful for when formatting fails in raw `<details>` or `<summary>` elements.
+>
+> Use these inside collapsible sections, echo logs, codex entries, and bios  
+> to maintain consistent Markdown behavior across GitHub’s site and apps.
 
 ## If Harth’noak is Spared:
 
