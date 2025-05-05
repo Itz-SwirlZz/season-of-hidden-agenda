@@ -15,6 +15,8 @@ A grief-scarred Hive ritual site buried beneath Gliese, haunted by echoes of H.I
 
 <details>
 
+<div markdown="1">
+
 <summary>Encounter I – Kiln Auga’thuun: The Silent Foundation</summary>
 
 - Empower one rune via Seismic Shards while surviving Oath Pulses.
@@ -22,11 +24,15 @@ A grief-scarred Hive ritual site buried beneath Gliese, haunted by echoes of H.I
 - Final Stand includes precision-only wipe mechanic.
 - Redemption: Perfect motionless execution removes Kiln’s wipe move.
 
+</div>
+
 </details>
 
 ---
 
 <details>
+
+<div markdown="1">
 
 <summary>Encounter II – Kapaar: Furnace Trial</summary>
 
@@ -35,11 +41,15 @@ A grief-scarred Hive ritual site buried beneath Gliese, haunted by echoes of H.I
 - Final phase includes rotating Soulfire Spirals and targeted scorch.
 - Redemption: If all heat is managed perfectly, Kapaar disables his flamethrower and fights unarmed.
 
+</div>
+
 </details>
 
 ---
 
 <details>
+
+<div markdown="1">
 
 <summary>Encounter III – Ghar’kaan: The Crystal-Eyed Watcher</summary>
 
@@ -48,11 +58,15 @@ A grief-scarred Hive ritual site buried beneath Gliese, haunted by echoes of H.I
 - Final phase includes Crystal Flash, Soulspotting, and Charm Zones.
 - Redemption: No Mercy Kills + all glyphs synced removes Crystal Flash and replaces with skill-based reflections.
 
+</div>
+
 </details>
 
 ---
 
 <details>
+
+<div markdown="1">
 
 <summary>Encounter IV – Harth’noak: The Mourning Bomb</summary>
 
@@ -61,11 +75,15 @@ A grief-scarred Hive ritual site buried beneath Gliese, haunted by echoes of H.I
 - Defusal Runes phase leads to a one-Guardian choice: end his life or offer peace.
 - Redemption: Perform Emote Failsafe if grief surges. If peace is chosen with the Remnant, Harth’noak is saved.
 
+</div>
+
 </details>
 
 ---
 
 <details>
+
+<div markdown="1">
 
 <summary>Final Encounter – Kezen: The Undermind of Regret</summary>
 
@@ -73,6 +91,8 @@ A grief-scarred Hive ritual site buried beneath Gliese, haunted by echoes of H.I
 - Defeat returning H.I.L.T. phantoms in a mirrored battle phase.
 - Reflect Soul Pulses and free Memory-Locked Guardians during collapse.
 - Redemption: At 33% HP, “Let her remember?” appears. Choosing peace and meeting conditions triggers a cinematic resolution and bonus rewards.
+
+</div>
 
 </details>
 
@@ -82,6 +102,8 @@ A grief-scarred Hive ritual site buried beneath Gliese, haunted by echoes of H.I
 # Detailed Raid Mechanics
 
 <details>
+
+<div markdown="1">
 
 Chamber of Trails – Full Raid Guide (Detailed Version)
 
@@ -617,12 +639,16 @@ Then Kezen collapses, mask breaking fully.
 ### Rewards – Redemption Path
 
 - Standard loot drops immediately upon cinematic ending.
+
+</div>
+
 </details>
 
 # H.I.L.T. Legendary Weapon Set  
 
 <details>
 
+<div markdown="1">
   
 *“Forged in grief. Etched in legacy.”*
 (New season perks are *Italicized*.)
@@ -787,19 +813,16 @@ While **stationary**, gain increased **Stability** and **Target Acquisition**.
 - Frenzy
 - *Transgression*
 - *Raging Bull*
+
+</div>
+
 </details>
 
 # C.o.T Lore Entries (ordered)
 
 <details>
 
-> [!INFO]
-> **Bold** text, *italic* text, and even line breaks  
-> will render properly inside this block—  
-> useful for when formatting fails in raw `<details>` or `<summary>` elements.
->
-> Use these inside collapsible sections, echo logs, codex entries, and bios  
-> to maintain consistent Markdown behavior across GitHub’s site and apps.
+<div markdown="1">
 
 ## If Harth’noak is Spared:
 
@@ -1247,6 +1270,8 @@ For once, he chooses silence.
 Not because he is broken—because he remembers.
 
 > [END – GHOST COMMENT LOGGED: “Some things don’t need words.”]
+
+</div>
 
 </details>
 
