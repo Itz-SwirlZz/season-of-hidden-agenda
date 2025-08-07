@@ -109,7 +109,7 @@ Chamber of Trails – Full Raid Guide (Detailed Version)
 
 Overview
 
-The Chamber of Trials is the raid featured in Season of Hidden Agenda, focusing on the remnants and regrets of the H.I.L.T. fireteam. Set in a Hive-infested soulspace, Guardians must confront echoing memories, psychological mechanics, and moral crossroads.
+The Chamber of Trails is the raid featured in Season of Hidden Agenda, focusing on the remnants and regrets of the H.I.L.T. fireteam. Set in a Hive-infested soulspace, Guardians must confront echoing memories, psychological mechanics, and moral crossroads.
 
 
 ---
@@ -540,7 +540,7 @@ A fragmented Hive soulspace—drifting glyphs, spiraling void energy, and broken
   - Wait for the Shadow to walk beneath the rune matching the **duplicated glyph from the real realm**
   - Then **engage and kill it before time runs out**
 
-- If provoked too early, the Shadow becomes aggressive, strafe-dodges, and may escape if not killed in time.
+- If provoked too early, the Shadow becomes aggressive, resilient, and may escape if not killed in time.
 
 ---
 
@@ -590,7 +590,7 @@ A fragmented Hive soulspace—drifting glyphs, spiraling void energy, and broken
   - **Memory Lock** – One Guardian sees Kezen’s past; others must help them escape
   - **Soul Pulses** – Massive grief blasts that must be **reflected using mirrored glyph shields**
 
-> Reflections require perfect angle and timing. Failed pulses knock back or trigger wipe.
+> Reflections require angle and timing. Failed pulses knock back or trigger wipe.
 
 ---
 
