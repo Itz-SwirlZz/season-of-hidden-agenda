@@ -30,6 +30,7 @@ Choose a section from the index below.
 ---
 
 ## **NEUTRAL CHARACTERS**
+- [Contax Team](Contax_Team_Real_Names.md)
 - [Neutral Members (And Gear!)](Members)
 - [Neutral Lore](Neutral-Lore)
 - [Neutral Joke Lore](Neutral-Joke-Lore)
